@@ -4,12 +4,12 @@
 >>Jinhyuk Lee, Wonjin Yoon, Sungdong Kim, Donghyeon Kim, Sunkyu Kim, Chan Ho So, Jaewoo Kang  
 >>2010 i2b2/VA, BC2GM, BC4CHEMD, BC5CDR, JNLPBA, LINNAEUS, NCBI-disease, Species-800
 
->#### Bioinformatics, 35(10): Cross-type biomedical named entity recognition with deep multi-task learning  
+>#### Bioinformatics, 35(10): [Cross-type biomedical named entity recognition with deep multi-task learning]  
 >>Xuan Wang, Yu Zhang, Xiang Ren, Yuhao Zhang, Marinka Zitnik, Jingbo Shang, Curtis Langlotz, Jiawei Han  
 >>BC2GM, BC4CHEMD, BC5CDR, JNLPBA, NCBI-Disease  
 
 >#### BioFLAIR: Pretrained Pooled Contextualized Embeddings for Biomedical Sequence Labeling Tasks
->>S Sharma, R Daniel Jr
+>>S Sharma, R Daniel Jr  
 >>BC5CDR, BC5CDR-disease, JNLPBA, LINNAEUS, NCBI-disease, Species-800
 
 >#### BMC Bioinformatics : A neural network multi-task learning approach to biomedical named entity recognition
