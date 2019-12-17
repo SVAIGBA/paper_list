@@ -19,7 +19,7 @@
 
 ## 2015
 
->#### Proceedings of the fifth BioCreative challenge evaluation workshop-2015: Overview of the biocreative V chemical disease relation (CDR) task  
+>#### Proceedings of the fifth BioCreative challenge evaluation workshop-2015: Overview of the BioCreative V chemical disease relation (CDR) task  
 >>Chih-Hsuan Wei, Yifan Peng, Robert Leaman, Allan Peter Davis, Carolyn J. Mattingly, Jiao Li, Thomas C. Wiegers, Zhiyong Lu  
 >>BC5CDR  
 
