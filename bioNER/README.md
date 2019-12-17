@@ -49,6 +49,6 @@ Manuel Maña-López, Jacinto Mata and W John Wilbur
 
 ## 2004 
 
->#### Proceedings of the International Joint Workshop on Natural Language Processing in Biomedicine and its Applications (NLPBA/BioNLP)-2004: [Introduction to the Bio-entity recognition task at JNLPBA] (./paper/NLPBA_BioNLP-2004_Introduction_to_the_bio-entity_recognition_task_at_JNLPBA.pdf)
+>#### Proceedings of the International Joint Workshop on Natural Language Processing in Biomedicine and its Applications (NLPBA/BioNLP)-2004: [Introduction to the Bio-entity recognition task at JNLPBA](./paper/NLPBA_BioNLP-2004_Introduction_to_the_bio-entity_recognition_task_at_JNLPBA.pdf)
 >> Jin-Dong KIM, Tomoko OHTA, Yoshimasa TSURUOKA, Yuka TATEISI, Nigel COLLIER  
 >> JNLPBA
