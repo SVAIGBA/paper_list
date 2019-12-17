@@ -4,7 +4,7 @@
 >>Jinhyuk Lee, Wonjin Yoon, Sungdong Kim, Donghyeon Kim, Sunkyu Kim, Chan Ho So, Jaewoo Kang  
 >>2010 i2b2/VA, BC2GM, BC4CHEMD, BC5CDR, JNLPBA, LINNAEUS, NCBI-disease, Species-800
 
->#### Bioinformatics, 35(10): Cross-type biomedical named entity recognition with deep multi-task learning  
+>#### Bioinformatics, 35(10): [Cross-type biomedical named entity recognition with deep multi-task learning](./paper/Bioinformatics-2019_Cross-type_biomedical_named_entity_recognition_with_deep_multi-task_learning.pdf)  
 >>Xuan Wang, Yu Zhang, Xiang Ren, Yuhao Zhang, Marinka Zitnik, Jingbo Shang, Curtis Langlotz, Jiawei Han  
 >>BC2GM, BC4CHEMD, BC5CDR, JNLPBA, NCBI-Disease  
 ss
