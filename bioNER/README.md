@@ -8,7 +8,7 @@
 >>Xuan Wang, Yu Zhang, Xiang Ren, Yuhao Zhang, Marinka Zitnik, Jingbo Shang, Curtis Langlotz, Jiawei Han  
 >>BC2GM, BC4CHEMD, BC5CDR, JNLPBA, NCBI-Disease  
 
->#### arXiv :[BioFLAIR: pretrained pooled contextualized embeddings for biomedical sequence labeling tasks](.//paper/arXiv_BioFLAIR_pretrained_pooled_contextualized_embeddings_for_biomedical_sequence_labeling_tasks.pdf)
+>#### arXiv :[BioFLAIR: pretrained pooled contextualized embeddings for biomedical sequence labeling tasks](./paper/arXiv-2019_BioFLAIR_pretrained_pooled_contextualized_embeddings_for_biomedical_sequence_labeling_tasks.pdf)
 >>S Sharma, R Daniel Jr  
 >>BC5CDR, BC5CDR-disease, JNLPBA, LINNAEUS, NCBI-disease, Species-800
 
@@ -26,17 +26,17 @@
 >>Chih-Hsuan Wei, Yifan Peng, Robert Leaman, Allan Peter Davis, Carolyn J. Mattingly, Jiao Li, Thomas C. Wiegers, Zhiyong Lu  
 >>BC5CDR  
 
->##### Journal of Cheminformatics, 7(s1): CHEMDNER: the drugs and chemical names extraction challenge
+>##### Journal of Cheminformatics, 7(s1): [CHEMDNER: the drugs and chemical names extraction challenge](./paper/Journal_of_Cheminformatics-2015_CHEMDNER_The_drugs_and_chemical_names.pdf)
 >>Martin Krallinger, Florian Leitner, Obdulia Rabal, Miguel Vazquez, Julen Oyarzabal & Alfonso Valencia   
 >>BC4CHEMD
 
 ## 2010 
->#### BMC Bioinformatics, 11(85): LINNAEUS: A species name identification system for biomedical literature 
+>#### BMC Bioinformatics, 11(85): [LINNAEUS: A species name identification system for biomedical literature](./paper/BMC_Bioinformatics-2010_LINNAEUS_a_species_name_identification_system.pdf) 
 >>Martin Gerner, Goran Nenadic, Casey M Bergman  
 >>LINNAEUS
 
 ## 2008 
->#### Genome Biology, 9(s2): [Overview of BioCreative II gene mention recognition]
+>#### Genome Biology, 9(s2): [Overview of BioCreative II gene mention recognition](./paper/Genome_Biology-2008_Overview_of_BioCreative_II_gene_mention_recognition.pdf)
 >> Larry Smith, Lorraine K Tanabe, Rie Johnson nee Ando, Cheng-Ju Kuo, I-Fang Chung, Chun-Nan Hsu, Yu-Shi Lin, Roman Klinger, 
 Christoph M Friedrich, Kuzman Ganchev, Manabu Torii, Hongfang Liu, 
 Barry Haddow, Craig A Struble, Richard J Povinelli, Andreas Vlachos, 
@@ -49,6 +49,6 @@ Manuel Maña-López, Jacinto Mata and W John Wilbur
 
 ## 2004 
 
->#### Proceedings of the International Joint Workshop on Natural Language Processing in Biomedicine and its Applications (NLPBA/BioNLP)-2004: Introduction to the Bio-entity recognition task at JNLPBA
+>#### Proceedings of the International Joint Workshop on Natural Language Processing in Biomedicine and its Applications (NLPBA/BioNLP)-2004: [Introduction to the Bio-entity recognition task at JNLPBA] (./paper/NLPBA_BioNLP-2004_Introduction_to_the_bio-entity_recognition_task_at_JNLPBA.pdf)
 >> Jin-Dong KIM, Tomoko OHTA, Yoshimasa TSURUOKA, Yuka TATEISI, Nigel COLLIER  
 >> JNLPBA
