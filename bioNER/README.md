@@ -16,11 +16,10 @@
 >>Gamal Crichton, Sampo Pyysalo, Billy Chiu, Anna Korhonen  
 >> AnatEM, BC2GM, BC4CHEMD, BC5CDR, BioNLP09, BioNLP11, BioNLP13, CRAFT, Ex-PTM, JNLPBA, LINNAEUS, NCBI-disease
 
->#### Overview of the BioCreative V chemical disease relation (CDR) task
->>Wei C H, Peng Y, Leaman R, et al  
 
+## 2015
 
-## 2017
-
-
+>#### Proceedings of the fifth BioCreative challenge evaluation workshop: Overview of the BioCreative V chemical disease relation (CDR) task  
+>>Chih-Hsuan Wei, Yifan Peng, Robert Leaman, Allan Peter Davis, Carolyn J. Mattingly, Jiao Li, Thomas C. Wiegers, Zhiyong Lu  
+>>BC5CDR  
 
