@@ -22,7 +22,7 @@
 
 ## 2015
 
->#### Proceedings of the fifth BioCreative challenge evaluation workshop-2015: [Overview of the BioCreative V chemical disease relation (CDR) task](./paper/Proceedings_of_the_fifth_BioCreative_challenge_evaluation_workshop-2015_Overview_of_the_BioCreative_V_Chemical_Disease.pdf)
+>#### Proceedings of the fifth BioCreative challenge evaluation workshop-2015: [Overview of the BioCreative V chemical disease relation (CDR) task] (./paper/Proceedings_of_the_fifth_BioCreative_challenge_evaluation_workshop-2015_Overview_of_the_BioCreative_V_Chemical_Disease.pdf)
 >>Chih-Hsuan Wei, Yifan Peng, Robert Leaman, Allan Peter Davis, Carolyn J. Mattingly, Jiao Li, Thomas C. Wiegers, Zhiyong Lu  
 >>BC5CDR  
 
@@ -33,7 +33,7 @@
 ## 2014
 
 >#### Journal of biomedical informatics: [NCBI disease corpus: A resource for disease name recognition
-and concept normalization](/paper/Journal_of_biomedical_informatics-2014_NCBI_disease_corpus_A_resource_for_disease_name_recognition.pdf)
+and concept normalization](./paper/Journal_of_biomedical_informatics-2014_NCBI_disease_corpus_A_resource_for_disease_name_recognition.pdf)
 >>Rezarta Islamaj Dog˘an, Robert Leaman, Zhiyong Lu  
 >>NCBI-disease 
 
