@@ -8,11 +8,14 @@
 >>Xuan Wang, Yu Zhang, Xiang Ren, Yuhao Zhang, Marinka Zitnik, Jingbo Shang, Curtis Langlotz, Jiawei Han  
 >>BC2GM, BC4CHEMD, BC5CDR, JNLPBA, NCBI-Disease  
 
->#### BioFLAIR: Pretrained Pooled Contextualized Embeddings for Biomedical Sequence Labeling Tasks
+>#### BioFLAIR: pretrained pooled contextualized embeddings for biomedical sequence labeling tasks
 >>S Sharma, R Daniel Jr  
 >>BC5CDR, BC5CDR-disease, JNLPBA, LINNAEUS, NCBI-disease, Species-800
 
->#### BMC Bioinformatics : A neural network multi-task learning approach to biomedical named entity recognition
+
+## 2017
+
+>#### BMC Bioinformatics, 18(368) : [A neural network multi-task learning approach to biomedical named entity recognition](./paper/BMC_Bioinformatics-2017_A_neural_network_multi-task_learning.pdf)
 >>Gamal Crichton, Sampo Pyysalo, Billy Chiu, Anna Korhonen  
 >> AnatEM, BC2GM, BC4CHEMD, BC5CDR, BioNLP09, BioNLP11, BioNLP13, CRAFT, Ex-PTM, JNLPBA, LINNAEUS, NCBI-disease
 
@@ -22,4 +25,17 @@
 >#### Proceedings of the fifth BioCreative challenge evaluation workshop-2015: [Overview of the BioCreative V chemical disease relation (CDR) task](./paper/Proceedings_of_the_fifth_BioCreative_challenge_evaluation_workshop2015_Overview_of_the_BioCreative_V_Chemical_Disease.pdf)
 >>Chih-Hsuan Wei, Yifan Peng, Robert Leaman, Allan Peter Davis, Carolyn J. Mattingly, Jiao Li, Thomas C. Wiegers, Zhiyong Lu  
 >>BC5CDR  
+
+## 2008 
+>#### Genome Biology, 9(s2): [Overview of BioCreative II gene mention recognition]
+>> Larry Smith, Lorraine K Tanabe, Rie Johnson nee Ando, Cheng-Ju Kuo, I-Fang Chung, Chun-Nan Hsu, Yu-Shi Lin, Roman Klinger, 
+Christoph M Friedrich, Kuzman Ganchev, Manabu Torii, Hongfang Liu, 
+Barry Haddow, Craig A Struble, Richard J Povinelli, Andreas Vlachos, 
+William A Baumgartner Jr, Lawrence Hunter, Bob Carpenter, 
+Richard Tzong-Han Tsai, Hong-Jie Dai, Feng Liu, Yifei Chen, 
+Chengjie Sun, Sophia Katrenko, Pieter Adriaans, Christian Blaschke, 
+Rafael Torres, Mariana Neves, Preslav Nakov, Anna Divoli, 
+Manuel Maña-López, Jacinto Mata and W John Wilbur
+>> BC2GM
+
 
