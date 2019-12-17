@@ -26,6 +26,15 @@
 >>Chih-Hsuan Wei, Yifan Peng, Robert Leaman, Allan Peter Davis, Carolyn J. Mattingly, Jiao Li, Thomas C. Wiegers, Zhiyong Lu  
 >>BC5CDR  
 
+>##### Journal of Cheminformatics 7(s1): CHEMDNER: the drugs and chemical names extraction challenge
+>>Martin Krallinger, Florian Leitner, Obdulia Rabal, Miguel Vazquez, Julen Oyarzabal & Alfonso Valencia   
+>>BC4CHEMD
+
+## 2010 
+>#### BMC Bioinformatics, 11(85): LINNAEUS: A species name identification system for biomedical literature 
+>>Martin Gerner, Goran Nenadic, Casey M Bergman  
+>>LINNAEUS
+
 ## 2008 
 >#### Genome Biology, 9(s2): [Overview of BioCreative II gene mention recognition]
 >> Larry Smith, Lorraine K Tanabe, Rie Johnson nee Ando, Cheng-Ju Kuo, I-Fang Chung, Chun-Nan Hsu, Yu-Shi Lin, Roman Klinger, 
@@ -35,7 +44,11 @@ William A Baumgartner Jr, Lawrence Hunter, Bob Carpenter,
 Richard Tzong-Han Tsai, Hong-Jie Dai, Feng Liu, Yifei Chen, 
 Chengjie Sun, Sophia Katrenko, Pieter Adriaans, Christian Blaschke, 
 Rafael Torres, Mariana Neves, Preslav Nakov, Anna Divoli, 
-Manuel Maña-López, Jacinto Mata and W John Wilbur
+Manuel Maña-López, Jacinto Mata and W John Wilbur  
 >> BC2GM
 
+## 2004 
 
+>#### Proceedings of the International Joint Workshop on Natural Language Processing in Biomedicine and its Applications (NLPBA/BioNLP)-2004: Introduction to the Bio-entity recognition task at JNLPBA
+>> Jin-Dong KIM, Tomoko OHTA, Yoshimasa TSURUOKA, Yuka TATEISI, Nigel COLLIER  
+>> JNLPBA
