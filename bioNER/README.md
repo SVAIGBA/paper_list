@@ -26,9 +26,16 @@
 >>Chih-Hsuan Wei, Yifan Peng, Robert Leaman, Allan Peter Davis, Carolyn J. Mattingly, Jiao Li, Thomas C. Wiegers, Zhiyong Lu  
 >>BC5CDR  
 
->##### Journal of Cheminformatics, 7(s1): [CHEMDNER: the drugs and chemical names extraction challenge](./paper/Journal_of_Cheminformatics-2015_CHEMDNER_The_drugs_and_chemical_names.pdf)
+>#### Journal of Cheminformatics, 7(s1): [CHEMDNER: the drugs and chemical names extraction challenge](./paper/Journal_of_Cheminformatics-2015_CHEMDNER_The_drugs_and_chemical_names.pdf)
 >>Martin Krallinger, Florian Leitner, Obdulia Rabal, Miguel Vazquez, Julen Oyarzabal & Alfonso Valencia   
 >>BC4CHEMD
+
+## 2014
+
+>#### Journal of biomedical informatics: [NCBI disease corpus: A resource for disease name recognition
+and concept normalization](/paper/Journal_of_biomedical_informatics-2014_NCBI_disease_corpus_A_resource_for_disease_name_recognition.pdf)
+>>Rezarta Islamaj Dog˘an, Robert Leaman, Zhiyong Lu  
+>>NCBI-disease 
 
 ## 2010 
 >#### BMC Bioinformatics, 11(85): [LINNAEUS: A species name identification system for biomedical literature](./paper/BMC_Bioinformatics-2010_LINNAEUS_a_species_name_identification_system.pdf) 
