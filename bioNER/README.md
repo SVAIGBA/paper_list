@@ -8,7 +8,7 @@
 >>Xuan Wang, Yu Zhang, Xiang Ren, Yuhao Zhang, Marinka Zitnik, Jingbo Shang, Curtis Langlotz, Jiawei Han  
 >>BC2GM, BC4CHEMD, BC5CDR, JNLPBA, NCBI-Disease  
 
->#### BioFLAIR: pretrained pooled contextualized embeddings for biomedical sequence labeling tasks
+>#### arXiv :[BioFLAIR: pretrained pooled contextualized embeddings for biomedical sequence labeling tasks](.//paper/arXiv_BioFLAIR_pretrained_pooled_contextualized_embeddings_for_biomedical_sequence_labeling_tasks.pdf)
 >>S Sharma, R Daniel Jr  
 >>BC5CDR, BC5CDR-disease, JNLPBA, LINNAEUS, NCBI-disease, Species-800
 
