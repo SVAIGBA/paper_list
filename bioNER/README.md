@@ -32,12 +32,12 @@
 
 ## 2014
 
->#### Journal of biomedical informatics: [NCBI disease corpus: A resource for disease name recognition and concept normalization](./paper/Journal_of_biomedical_informatics-2014_NCBI_disease_corpus_A_resource_for_disease_name_recognition.pdf)
+>#### Journal of biomedical informatics: [NCBI disease corpus: a resource for disease name recognition and concept normalization](./paper/Journal_of_biomedical_informatics-2014_NCBI_disease_corpus_A_resource_for_disease_name_recognition.pdf)
 >>Rezarta Islamaj Dog˘an, Robert Leaman, Zhiyong Lu  
 >>NCBI-disease 
 
 ## 2010 
->#### BMC Bioinformatics, 11(85): [LINNAEUS: A species name identification system for biomedical literature](./paper/BMC_Bioinformatics-2010_LINNAEUS_a_species_name_identification_system.pdf) 
+>#### BMC Bioinformatics, 11(85): [LINNAEUS: a species name identification system for biomedical literature](./paper/BMC_Bioinformatics-2010_LINNAEUS_a_species_name_identification_system.pdf) 
 >>Martin Gerner, Goran Nenadic, Casey M Bergman  
 >>LINNAEUS
 
