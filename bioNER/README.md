@@ -26,7 +26,7 @@
 >>Chih-Hsuan Wei, Yifan Peng, Robert Leaman, Allan Peter Davis, Carolyn J. Mattingly, Jiao Li, Thomas C. Wiegers, Zhiyong Lu  
 >>BC5CDR  
 
->##### Journal of Cheminformatics 7(s1): CHEMDNER: the drugs and chemical names extraction challenge
+>##### Journal of Cheminformatics, 7(s1): CHEMDNER: the drugs and chemical names extraction challenge
 >>Martin Krallinger, Florian Leitner, Obdulia Rabal, Miguel Vazquez, Julen Oyarzabal & Alfonso Valencia   
 >>BC4CHEMD
 
