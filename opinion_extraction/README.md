@@ -36,7 +36,7 @@
 > EMNLP: [Recursive Neural Conditional Random Fields for Aspect-based Sentiment Analysis](/paper/2016Recursive neural conditional random fields for aspect-based sentiment analysis.pdf)  
 >>   Wang, W., Pan, S. J., Dahlmeier, D., & Xiao, X. (2016). Recursive neural conditional random fields for aspect-based sentiment analysis. arXiv preprint arXiv:1603.06679.  
 
-> IJCAI: [Unsupervised Word and Dependency Path Embeddings for Aspect Term Extraction](/paper/2016Unsupervised word and dependency path embeddings for aspect term extraction.pdf)  
+> IJCAI: [Unsupervised Word and Dependency Path Embeddings for Aspect Term Extraction](/paper/2016Unsupervised word and dependency path embeddings for aspect term extraction.pdf)   
 >>  Yin, Y., Wei, F., Dong, L., Xu, K., Zhang, M., & Zhou, M. (2016). Unsupervised word and dependency path embeddings for aspect term extraction. arXiv preprint arXiv:1605.07843.  
 
 
