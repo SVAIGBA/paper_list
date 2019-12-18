@@ -1,6 +1,6 @@
 2019  
 
-> ACL: [Neural Aspect and Opinion Term Extraction with Mined Rules as Weak Supervision](/paper/2019Neural Aspect and Opinion Term Extraction with Mined Rules as Weak Supervision.pdf)        
+> ACL: [Neural Aspect and Opinion Term Extraction with Mined Rules as Weak Supervision](/paper_list/opinion_extraction/paper/2019Neural Aspect and Opinion Term Extraction with Mined Rules as Weak Supervision.pdf)        
 >> Dai, H., & Song, Y. (2019). Neural Aspect and Opinion Term Extraction with Mined Rules as Weak Supervision. arXiv preprint arXiv:1907.03750.  
 
 >  ACL: [Exploring Sequence-to-Sequence Learning in Aspect Term Extraction](/paper/2019Exploring Sequence-to-Sequence Learning in Aspect Term Extraction.pdf)      
