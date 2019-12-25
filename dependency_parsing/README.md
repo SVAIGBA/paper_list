@@ -15,7 +15,7 @@
 >> CTB5, PTB-SD, UD  
 
 >#### Proceedings of the CoNLL 2018 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies-2018: [Universal Dependency Parsing from Scratch](./paper/K18-2016.pdf)
->> Peng Qi, Timothy Dozat, Yuhao Zhang, Christopher D. Manning
+>> Peng Qi, Timothy Dozat, Yuhao Zhang, Christopher D. Manning  
 >> UD  
 
 ## 2017  
