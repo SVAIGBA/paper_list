@@ -27,4 +27,19 @@
 >> Jun Suzuki, Sho Takase, Hidetaka Kamigaito, Makoto Morishita, Masaaki Nagata  
 >> PTB  
 
+>### Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers)-2018: [What’s Going On in Neural Constituency Parsers? An Analysis](./paper/N18-1091.pdf)  
+>> David Gaddy, Mitchell Stern, Dan Klein  
+>> PTB  
+
+## 2017  
+
+>### Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)-2017: [A Minimal Span-Based Neural Constituency Parser](./paper/P17-1076.pdf)  
+>> Mitchell Stern, Jacob Andreas, Dan Klein  
+>> PTB  
+
+>### Proceedings of the Eighth International Joint Conference on Natural Language Processing (Volume 2: Short Papers)-2017: [Supervised Attention for Sequence-to-Sequence Constituency Parsing](./paper/I17-2002.pdf)  
+>> Hidetaka Kamigaito, Katsuhiko Hayashi, Tsutomu Hirao, Hiroya Takamura, Manabu Okumura, Masaaki Nagata  
+>> PTB  
+
+
 
