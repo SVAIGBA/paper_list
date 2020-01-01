@@ -31,6 +31,10 @@
 >> David Gaddy, Mitchell Stern, Dan Klein  
 >> PTB  
 
+>#### Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)-2018: [Extending a Parser to Distant Domains Using a Few Dozen Partially Annotated Examples](./paper/P18-1110.pdf)  
+>> Vidur Joshi, Matthew Peters, Mark Hopkins  
+>> Brown, PTB  
+
 ## 2017  
 
 >#### Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)-2017: [A Minimal Span-Based Neural Constituency Parser](./paper/P17-1076.pdf)  
