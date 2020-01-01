@@ -49,5 +49,8 @@
 >> Hidetaka Kamigaito, Katsuhiko Hayashi, Tsutomu Hirao, Hiroya Takamura, Manabu Okumura, Masaaki Nagata  
 >> PTB  
 
+>#### Transactions of the Association for Computational Linguistics, Volume 5-2017: [In-Order Transition-based Constituent Parsing](./paper/Q17-1029.pdf)  
+>> Jiangming Liu, Yue Zhang  
+>> CTB, PTB  
 
 
