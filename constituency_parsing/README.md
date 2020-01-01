@@ -41,6 +41,10 @@
 >> Mitchell Stern, Jacob Andreas, Dan Klein  
 >> PTB  
 
+>#### Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)-2017: [Improving Neural Parsing by Disentangling Model Combination and Reranking Effects](./paper/P17-2025.pdf)
+>> Daniel Fried, Mitchell Stern, Dan Klein  
+>> PTB  
+
 >#### Proceedings of the Eighth International Joint Conference on Natural Language Processing (Volume 2: Short Papers)-2017: [Supervised Attention for Sequence-to-Sequence Constituency Parsing](./paper/I17-2002.pdf)  
 >> Hidetaka Kamigaito, Katsuhiko Hayashi, Tsutomu Hirao, Hiroya Takamura, Manabu Okumura, Masaaki Nagata  
 >> PTB  
