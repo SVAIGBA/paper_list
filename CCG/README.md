@@ -15,3 +15,9 @@
 >#### Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies-2016: [LSTM CCG Parsing](./paper/N16-1026.pdf)  
 >> Mike Lewis, Kenton Lee, Luke Zettlemoyer  
 >> CCGbank  
+
+## 2014  
+
+>#### Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)-2014: [A* CCG Parsing with a Supertag-factored Model](./paper//D14-1107.pdf)  
+>> Mike Lewis, Mark Steedman  
+>> CCGbank  
