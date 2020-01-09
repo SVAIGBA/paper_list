@@ -16,6 +16,12 @@
 >> Mike Lewis, Kenton Lee, Luke Zettlemoyer  
 >> CCGbank  
 
+## 2015  
+
+>#### Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 2: Short Papers)-2015: [CCG Supertagging with a Recurrent Neural Network](./paper/P15-2041.pdf)  
+>> Wenduan Xu, Michael Auli, Stephen Clark  
+>> CCGbank  
+
 ## 2014  
 
 >#### Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)-2014: [A* CCG Parsing with a Supertag-factored Model](./paper//D14-1107.pdf)  
