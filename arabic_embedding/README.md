@@ -1,6 +1,6 @@
 ## 2019
 
->#### The Fourth Arabic Natural Language Processing Workshop, Jul 2019: [ArbEngVec: Arabic-English Cross-Lingual Word Embedding Model](./paper/ArbEngVec%20Arabic-English Cross-Lingual Word Embedding Model.pdf)  
+>#### The Fourth Arabic Natural Language Processing Workshop, Jul 2019: [ArbEngVec: Arabic-English Cross-Lingual Word Embedding Model](paper/Arabic%20Textual%20Entailment%20with%20Word%20Embeddings.pdf)
 >
 >>Raki Lachraf, El Moatez Billah Nagoudi, Youcef Ayachi, Ahmed Abdelali, Didier Schwab
 
