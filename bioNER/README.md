@@ -13,8 +13,7 @@
 >>BC5CDR, BC5CDR-disease, JNLPBA, LINNAEUS, NCBI-disease, Species-800
 
 >#### BMC Bioinformatics, 20(10) : [CollaboNet: collaboration of deep neural networks for biomedical named entity
-recognition]
-(./paper/BMC_Bioinformatics-2019_CollaboNet_Collaboration_of_Deep_neural_networks_for_biomedical_named_entity)
+recognition](./paper/BMC_Bioinformatics-2019_CollaboNet_Collaboration_of_Deep_neural_networks_for_biomedical_named_entity)
 >>Wonjin Yoon, Chan Ho So, Jinhyuk Lee and Jaewoo Kang
 >>BC2GM, BC4CHEMD, BC5CDR-chemical, BC5CDR-disease, JNLPBA, NCBI-disease
 
