@@ -6,7 +6,7 @@
 
 >#### Bioinformatics, 35(10): [Cross-type biomedical named entity recognition with deep multi-task learning](./paper/Bioinformatics-2019_Cross-type_biomedical_named_entity_recognition_with_deep_multi-task_learning.pdf)  
 >>Xuan Wang, Yu Zhang, Xiang Ren, Yuhao Zhang, Marinka Zitnik, Jingbo Shang, Curtis Langlotz, Jiawei Han  
->>BC2GM, BC4CHEMD, BC5CDR, JNLPBA, NCBI-Disease  
+>>BC2GM, BC4CHEMD, BC5CDR, JNLPBA, NCBI-disease  
 
 >#### arXiv :[BioFLAIR: pretrained pooled contextualized embeddings for biomedical sequence labeling tasks](./paper/arXiv-2019_BioFLAIR_pretrained_pooled_contextualized_embeddings_for_biomedical_sequence_labeling_tasks.pdf)
 >>S Sharma, R Daniel Jr  
@@ -17,7 +17,26 @@
 >>BC2GM, BC4CHEMD, BC5CDR-chemical, BC5CDR-disease, JNLPBA, NCBI-disease
 
 
+## 2018
 
+
+>#### Bioinformatics, 34(8): [An attention-based BiLSTM-CRF approach to document-level chemical named entity recognition](./paper/Bioinformatics-2018_An_attention-based_BiLSTM-CRF_approach_to_document-level_chemical_named_entity_recognition)  
+>>Ling Luo, Zhihao Yang, Pei Yang, Yin Zhang, Lei Wang, Hongfei Lin and Jian Wang  
+>>BC4CHEMD, BC5CDR-chemical
+
+
+>#### Bioinformatics, 34(9): [GRAM-CNN: a deep learning approach with local context for named entity recognition in biomedical text](./paper/Bioinformatics-2018_GRAM-CNN_a_deep_learning_approach_with_local_context_for_named_entity_recognition_in_biomedical_texts)  
+>>Qile Zhu, Xiaolin Li, Ana Conesa and Ce´cile Pereira  
+>>BC2GM, JNLPBA, NCBI-disease
+
+
+>#### Bioinformatics, 34(20): [D3NER: biomedical named entity recognition using CRF-biLSTM improved with fine-tuned embeddings of various linguistic information](./paper/Bioinformatics-2018_D3NER_biomedical_named_entity_recognition_using_CRF-biLSTM_improved_with_fine-tuned_embeddings_of_various_linguistic_information)  
+>>Thanh Hai Dang, Hoang-Quynh Le, Trang M. Nguyen and Sinh T. Vu  
+>>BC5CDR-chemical, BC5CDR-disease ,NCBI-disease
+
+>#### Bioinformatics, 33(xx): [Deep learning with word embeddings improves biomedical named entity recognition](./paper/Bioinformatics-2018_Deep_learning_with_word_embeddings_improves_biomedical_named_entity_recognition)  
+>>Maryam Habibi, Leon Weber, Mariana Neves, David Luis Wiegandt and Ulf Leser  
+>> BC2GM, BC4CHEMD, BC5CDR, JNLPBA, LINNAEUS, NCBI-disease....
 
 
 ## 2017
@@ -26,6 +45,10 @@
 >>Gamal Crichton, Sampo Pyysalo, Billy Chiu, Anna Korhonen  
 >> AnatEM, BC2GM, BC4CHEMD, BC5CDR, BioNLP09, BioNLP11, BioNLP13, CRAFT, Ex-PTM, JNLPBA, LINNAEUS, NCBI-disease
 
+
+>#### Bioinformatics, 33(15): [A transition-based joint model for disease named entity recognition and normalization](./paper/Bioinformatics-2017_A_transition-based_joint_model_for_disease_named_entity_recognition_and_normalization)  
+>>Yinxia Lou, Yue Zhang, Tao Qian, Fei Li, Shufeng Xiong and Donghong Ji   
+>>BC5CDR-disease, NCBI-disease  
 
 ## 2015
 
