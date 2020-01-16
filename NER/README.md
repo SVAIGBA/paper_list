@@ -5,6 +5,9 @@
 >> flat-en-CoNLL-2003 (93.37), flat-en-OntoNotes-5.0 (90.30), flat-es-CoNLL-2002 (87.08)
 
 ## 2019
+
+### ACL-2019 (9)
+
 > #### ACL-2019: [A Semi-Markov Structured Support Vector Machine Model for High-Precision Named Entity Recognition](paper/%5BACL%202019%5D%20A%20Semi-Markov%20Structured%20Support%20Vector%20Machine%20Model%20for%20High-Precision%20Named%20Entity%20Recognition.pdf)
 >> Ravneet Arora, Chen-Tse Tsai, Ketevan Tsereteli, Prabhanjan Kambadur, Yi Yang
 >
@@ -49,6 +52,8 @@
 >> Nicky Ringland, Xiang Dai, Ben Hachey, Sarvnaz Karimi, Cecile Paris, James R. Curran
 >
 >> nest-NNE (74.7)
+
+### EMNLP-2019 (9)
 
 > #### EMNLP-2019: [A Boundary-aware Neural Model for Nested Named Entity Recognition](paper/%5BEMNLP%202019%5D%20A%20Boundary-aware%20Neural%20Model%20for%20Nested%20Named%20Entity%20Recognition.pdf)
 >> Changmeng Zheng, Yi Cai, Jingyun Xu, Ho-fung Leung and Guandong Xu
@@ -95,6 +100,8 @@
 >
 >> flat-es-CoNLL-2002 (64.48), flat-nl-CoNLL-2002 (73.44), flat-de-CoNLL-2003 (62.26)
 
+### NAACL-2019 (5)
+
 > #### NAACL-2019: [Better Modeling of Incomplete Annotations for Named Entity Recognition](paper/%5BNAACL%202019%5D%20Better%20Modeling%20of%20Incomplete%20Annotations%20for%20Named%20Entity%20Recognition.pdf)
 >> Zhanming Jie, Pengjun Xie, Wei Lu, Ruixue Ding and Linlin Li
 >
@@ -122,6 +129,8 @@
 
 ## 2018
 
+### COLING-2018 (5)
+
 > #### COLING-2018: [A Survey on Recent Advances in Named Entity Recognition](paper/%5BCOLING%202018%5D%20A%20Survey%20on%20Recent%20Advances%20in%20Named%20Entity%20Recognition%20from%20Deep%20Learning%20models.pdf)
 >> Vikas Yadav, Steven Bethard
 >
@@ -142,7 +151,7 @@
 >
 >> Turkish
 
-> COLING-2018: [Robust Lexical Features for Improved Neural Network Named Entity Recognition](paper/%5BCOLING%202018%5D%20Robust%20Lexical%20Features%20for%20Improved%20Neural%20Network%20Named-Entity%20Recognition.pdf)
+> #### COLING-2018: [Robust Lexical Features for Improved Neural Network Named Entity Recognition](paper/%5BCOLING%202018%5D%20Robust%20Lexical%20Features%20for%20Improved%20Neural%20Network%20Named-Entity%20Recognition.pdf)
 >> Abbas Ghaddar, Philippe Langlais
 >
 >> flat-en-CoNLL-2003 (91.73), flat-en-OntoNotes 5.0 (87.95)
