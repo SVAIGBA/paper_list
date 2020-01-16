@@ -120,8 +120,34 @@
 >
 >> flat-en-CoNLL-2003 (93.18), flat-de-CoNLL-2003 (88.27), flat-nl-CoNLL-2003 (90.44), flat-en-WNUT-17 (49.59)
 
-
 ## 2018
+
+> #### COLING-2018: [A Survey on Recent Advances in Named Entity Recognition](paper/%5BCOLING%202018%5D%20A%20Survey%20on%20Recent%20Advances%20in%20Named%20Entity%20Recognition%20from%20Deep%20Learning%20models.pdf)
+>> Vikas Yadav, Steven Bethard
+>
+>> Survey
+
+> #### COLING-2018: [An Empirical Study on Fine-Grained Named Entity Recognition](paper/%5BCOLING%202018%5D%20An%20Empirical%20Study%20on%20Fine-Grained%20Named%20Entity%20Recognition.pdf)
+>> Khai Mai, Thai-Hoang Pham, Nguyen Minh Trung, Nguyen Tuan Duc, Danushka Bolegala, Ryohei Sasano, Satoshi Sekine
+>
+>> English, Japanese
+
+> #### COLING-2018: [Contextual String Embeddings for Sequence Labeling](paper/%5BCOLING%202018%5D%20Contextual%20String%20Embeddings%20for%20Sequence%20Labeling.pdf)
+>> Alan Akbik, Duncan Blythe, Roland Vollgraf
+>
+>> flat-en-CoNLL-2003 (93.09), flat-de-CoNLL-2003 (88.32)
+
+> #### COLING-2018: [Improving Named Entity Recognition by Jointly Learning to Disambiguate Morphological Tags](paper/%5BCOLING%202018%5D%20Improving%20Named%20Entity%20Recognition%20by%20Jointly%20Learning%20to%20Disambiguate%20Morphological%20Tags.pdf)
+>> Onur Gungor, Suzan Uskudarli, Tunga Gungor
+>
+>> Turkish
+
+> COLING-2018: [Robust Lexical Features for Improved Neural Network Named Entity Recognition](paper/%5BCOLING%202018%5D%20Robust%20Lexical%20Features%20for%20Improved%20Neural%20Network%20Named-Entity%20Recognition.pdf)
+>> Abbas Ghaddar, Philippe Langlais
+>
+>> flat-en-CoNLL-2003 (91.73), flat-en-OntoNotes 5.0 (87.95)
+
+
 
 ## 2017
 
