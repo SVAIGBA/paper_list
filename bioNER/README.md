@@ -4,6 +4,10 @@
 >>Jinhyuk Lee, Wonjin Yoon, Sungdong Kim, Donghyeon Kim, Sunkyu Kim, Chan Ho So, Jaewoo Kang  
 >>2010 i2b2/VA, BC2GM, BC4CHEMD, BC5CDR, JNLPBA, LINNAEUS, NCBI-disease, Species-800
 
+>#### Bioinformatics, xx(xx): [Towards reliable named entity recognition in the biomedical domain](./paper/Bioinformatics-2019_Towards_reliable_named_entity_recognition_in_the_biomedical_domain)  
+>>John M. Giorgi and Gary D. Bader  
+>>BC2GM, BC4CHEMD, BC5CDR, CRAFT, JNLPBA, LINNAEUS, NCBI-disease
+
 >#### Bioinformatics, 35(10): [Cross-type biomedical named entity recognition with deep multi-task learning](./paper/Bioinformatics-2019_Cross-type_biomedical_named_entity_recognition_with_deep_multi-task_learning.pdf)  
 >>Xuan Wang, Yu Zhang, Xiang Ren, Yuhao Zhang, Marinka Zitnik, Jingbo Shang, Curtis Langlotz, Jiawei Han  
 >>BC2GM, BC4CHEMD, BC5CDR, JNLPBA, NCBI-disease  
@@ -38,6 +42,9 @@
 >>Maryam Habibi, Leon Weber, Mariana Neves, David Luis Wiegandt and Ulf Leser  
 >> BC2GM, BC4CHEMD, BC5CDR, JNLPBA, LINNAEUS, NCBI-disease....
 
+>#### Bioinformatics, 34(23): [Transfer learning for biomedical named entity recognition with neural networks](./paper/Bioinformatics-2018_Transfer_learning_for_biomedical_named_entity_recognition_with_neural_networks)  
+>>John M. Giorgi and Gary D. Bader  
+>> BC2GM, BC4CHEMD, BC5CDR, JNLPBA, LINNAEUS, NCBI-disease....
 
 ## 2017
 
@@ -49,6 +56,12 @@
 >#### Bioinformatics, 33(15): [A transition-based joint model for disease named entity recognition and normalization](./paper/Bioinformatics-2017_A_transition-based_joint_model_for_disease_named_entity_recognition_and_normalization)  
 >>Yinxia Lou, Yue Zhang, Tao Qian, Fei Li, Shufeng Xiong and Donghong Ji   
 >>BC5CDR-disease, NCBI-disease  
+
+## 2016
+
+>#### Bioinformatics, 32(18): [TaggerOne: joint named entity recognition and normalization with semi-Markov Models](./paper/Bioinformatics-2016_TaggerOne_joint_named_entity_recognition_and_normalization_with_semi-Markov_Models)  
+>>Robert Leaman and Zhiyong Lu   
+>>BC5CDR-chemical, BC5CDR-disease, NCBI-disease  
 
 ## 2015
 
@@ -82,6 +95,13 @@ Chengjie Sun, Sophia Katrenko, Pieter Adriaans, Christian Blaschke,
 Rafael Torres, Mariana Neves, Preslav Nakov, Anna Divoli, 
 Manuel Maña-López, Jacinto Mata and W John Wilbur  
 >> BC2GM
+
+>#### Bioinformatics, xx(xx): [Inter-species normalization of gene mentions with GNAT](./paper/Bioinformatics-2008_Inter-species_normalization_of_gene_mentions_with_GNAT)  
+>>Jörg Hakenberg, Conrad Plake, Robert Leaman, Michael Schroeder and Graciela Gonzalez  
+>>EntrezGene
+
+
+
 
 ## 2004 
 
