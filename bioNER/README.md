@@ -24,6 +24,12 @@
 ## 2018
 
 
+>#### Bioinformatics, 34(14): [Exploiting and assessing multi-source data for supervised biomedical named entity recognition](./paper/Bioinformatics-2018_Exploiting_and_assessing_multi-source_data_for_supervised_biomedical_named_entity_recognition)  
+>>Dieter Galea, Ivan Laponogov and Kirill Veselkov  
+>>[Datasets list](./paper/supp-info-exploiting)  
+
+
+
 >#### Bioinformatics, 34(8): [An attention-based BiLSTM-CRF approach to document-level chemical named entity recognition](./paper/Bioinformatics-2018_An_attention-based_BiLSTM-CRF_approach_to_document-level_chemical_named_entity_recognition)  
 >>Ling Luo, Zhihao Yang, Pei Yang, Yin Zhang, Lei Wang, Hongfei Lin and Jian Wang  
 >>BC4CHEMD, BC5CDR-chemical
