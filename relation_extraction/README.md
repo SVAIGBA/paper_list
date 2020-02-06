@@ -1,13 +1,11 @@
 # Relation Extraction Paper List
 
 ## 2019
-<<<<<<< HEAD
+
 >#### ACL-2019: [Span-Level Model for Relation Extraction](./paper/SLM-ACL-19.pdf)
-=======
->#### ACL-2019: [Span-Level Model for Relation Extraction](./paper/SLM-19.pdf)
->>>>>>> b9113bb3de62703294eb0a76882f7fced6bffffb
 >>Kalpit Dixit , Yaser Al-Onaizan 
 >>Amazon AWS AI
+
 
 >#### ACL-2019: [Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge](./paper/CRE-ACL-2019.pdf)
 >>Ziran Li, Ning Ding, Zhiyuan Liu, Hai-Tao Zheng, Ying Shen
