@@ -73,4 +73,4 @@
 
 >#### ACL-2005: [Exploring Various Knowledge in Relation Extraction](./paper/EVK-ACL-2005.pdf)
 >>Zhou Guo Dong , Su Jian , Zhang Jie , Zhang Min      
->>Institute for Infocomm research
+>>Institute for Infocomm Research
