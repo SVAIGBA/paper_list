@@ -20,7 +20,7 @@
  >>Google Research
 
 >#### arXiv-2019: [Simple BERT Models for Relation Extraction and Semantic Role Labeling](./paper/SBM-Arxiv-2019.pdf)
->>Peng Shi , Jimmy Lin
+>>Peng Shi , Jimmy Lin      
  >>University ofWaterloo
 
 
@@ -59,18 +59,18 @@
 ## 2015
 
 >#### ACL-2015 workshop(Proceedings of the 1st Workshop on Vector Space Modeling for Natural Language Processing): [Relation Extraction : Perspective from Convolutional Neural Networks](./paper/REP-ACL-2015.pdf)
->>Nguyen Thien Huu , Grishman Ralph     
->>New York University
+>>Nguyen Thien Huu , Grishman Ralph         
+ >>New York University
 
 
 ## 2014
 >#### EMNLP-2014: [Typed Tensor Decomposition of Knowledge Bases for Relation Extraction](./paper/TTD-EMNLP-2014.pdf)
->>Chang Kai Wei , Yih Wen Tau , Yang Bishan , Meek Christopher
->>University of Illinois, Urbana
+>>Chang Kai Wei , Yih Wen Tau , Yang Bishan , Meek Christopher      
+ >>University of Illinois, Urbana
 
 
 ## 2005
 
 >#### ACL-2005: [Exploring Various Knowledge in Relation Extraction](./paper/EVK-ACL-2005.pdf)
->>Zhou Guo Dong , Su Jian , Zhang Jie , Zhang Min
+>>Zhou Guo Dong , Su Jian , Zhang Jie , Zhang Min      
 >>Institute for Infocomm research
