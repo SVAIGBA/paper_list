@@ -1,7 +1,7 @@
 # Relation Extraction Paper List
 
 ## 2019
->#### ACL-2019: [Span-Level Model for Relation Extraction](./paper/Span-Level\ Model\ for\ Relation\ Extraction.pdf)
+>#### ACL-2019: [Span-Level Model for Relation Extraction](./paper/SLM-19.pdf)
 >>Kalpit Dixit , Yaser Al-Onaizan 
 >>Amazon AWS AI
 
