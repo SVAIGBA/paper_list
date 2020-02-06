@@ -4,6 +4,7 @@
 
 >#### ACL-2019: [Span-Level Model for Relation Extraction](./paper/SLM-ACL-19.pdf)
 >>Kalpit Dixit , Yaser Al-Onaizan 
+
 >>Amazon AWS AI
 
 
