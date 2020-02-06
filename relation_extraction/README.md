@@ -26,40 +26,40 @@
 
 ## 2018
 >#### ACL-2018: [Adversarial Multi-lingual Neural Relation Extraction](./paper/AMN-ACL-2018.pdf)
->>Xiaozhi Wang, Xu Han, Yankai Lin, Zhiyuan Liu1†, Maosong Sun
+>>Xiaozhi Wang, Xu Han, Yankai Lin, Zhiyuan Liu1†, Maosong Sun   
 >>Tsinghua University
 
 >#### ACL-2018: [Structure Regularized Neural Network for Entity Relation Classification for Chinese Literature Text](./paper/SRN-ACL-2018.pdf)
->>Wen Ji , Sun Xu , Ren Xuancheng , Su Qi
+>>Wen Ji , Sun Xu , Ren Xuancheng , Su Qi    
 >>Peking University
 
 >####  BDMA(Big Data Mining and Analytics)-2018: [Relation Classification via Recurrent Neural Network](./paper/RCR-BDMA-2018.pdf)
->>Zhang Dongxu , Wang Dong
->>Tsinghua University
+>>Zhang Dongxu , Wang Dong    
+>>Tsinghua University 
 
 
 ## 2017
 >#### IJCAI-2017: [Effective Deep Memory Networks for Distant Supervised Relation Extraction](./paper/EDM-IJCAI-2017.pdf)
->> Feng Xiaocheng,Guo Jiang , Qin Bing , Liu Ting ,Liu Yongjie
+>> Feng Xiaocheng,Guo Jiang , Qin Bing , Liu Ting ,Liu Yongjie     
 >> SCIR, Harbin Institute of Technology
 
 >#### arXiv-2017 : [A Survey of Deep Learning Methods for Relation Extraction](./paper/ASD-ARXIV-2017.pdf)
->>Kumar, Shantanu
+>>Kumar, Shantanu     
 >>Indian Institute of Technology Delhi
 
 >#### ICMCCE-2017(Proceedings-2017 2nd International Conference on Mechanical, Control and Computer Engineering): [A Review on Entity Relation Extraction](./paper/ARE-ICMCCE-2017.pdf)
->>Qianqian Zhang, Mengdong Chen and Lianzhong Liu
+>>Qianqian Zhang, Mengdong Chen and Lianzhong Liu     
 >>Beihang University
 
 ## 2016
 >#### ACL-2016: [Relation Classification via Multi-level Attention CNNs](./paper/RCM-ACL-2016.pdf)
->>Wang Liniin , Cao Zhu , De MeloGerard , Liu Zhiyuan
+>>Wang Liniin , Cao Zhu , De MeloGerard , Liu Zhiyuan     
 >> Tsinghua University
 
 ## 2015
 
 >#### ACL-2015 workshop(Proceedings of the 1st Workshop on Vector Space Modeling for Natural Language Processing): [Relation Extraction : Perspective from Convolutional Neural Networks](./paper/REP-ACL-2015.pdf)
->>Nguyen Thien Huu , Grishman Ralph
+>>Nguyen Thien Huu , Grishman Ralph     
 >>New York University
 
 
