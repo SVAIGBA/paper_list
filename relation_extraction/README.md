@@ -8,15 +8,15 @@
 
 
 >#### ACL-2019: [Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge](./paper/CRE-ACL-2019.pdf)
->>Ziran Li, Ning Ding, Zhiyuan Liu, Hai-Tao Zheng, Ying Shen
+>>Ziran Li, Ning Ding, Zhiyuan Liu, Hai-Tao Zheng, Ying Shen      
  >>Tsinghua Shenzhen International Graduate School, Tsinghua University
 
 >#### CIKM-19(Proceedings of the 28th ACM International Conference on Information and Knowledge Management): [Enriching Pre-trained Language Model with Entity Information for Relation Classification](./paper/EPT-CIKM-2019.pdf)
->>Shanchan Wu, Yifan He
+>>Shanchan Wu, Yifan He     
  >>Alibaba Group (U.S.) Inc., Sunnyvale, CA
 
 >#### ACL-2019: [Matching the Blanks: Distributional Similarity for Relation Learning](./paper/MMBD-ACL-2019.pdf)
->>Fitzgerald Nicholas , Ling Jeffrey
+>>Fitzgerald Nicholas , Ling Jeffrey     
  >>Google Research
 
 >#### arXiv-2019: [Simple BERT Models for Relation Extraction and Semantic Role Labeling](./paper/SBM-Arxiv-2019.pdf)
