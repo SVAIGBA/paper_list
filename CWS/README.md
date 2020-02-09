@@ -1,4 +1,5 @@
 ## 2019  
+
 >#### NAACL: [Incorporating Word Attention into Character-Based Word Segmentation](./paper/N19-1276.pdf)  
 >> Shohei Higashiyama, Masao Utiyama, Eiichiro Sumita, Masao Ideuchi, Yoshiaki Oida, Yohei Sakamoto, Isaac Okada  
 >> CTB6, MSR, BCCWJ  
