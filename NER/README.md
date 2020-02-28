@@ -1,4 +1,7 @@
 ## 2020
+
+### AAAI-2020
+
 > #### AAAI-2020: [Hierarchical Contextualized Representation for Named Entity Recognition](paper/%5BAAAI%202020%5D%20Hierarchical%20Contextualized%20Representation%20for%20Named%20Entity%20Recognition.pdf)
 >> Ying Luo, Fengshun Xiao, Hai Zhao
 >>
@@ -88,7 +91,7 @@
 > #### EMNLP-2019: [Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network](paper/%5BEMNLP%202019%5D%20Leverage%20Lexical%20Knowledge%20for%20Chinese%20Named%20Entity%20Recognition%20via%20Collaborative%20Graph%20Network.pdf)
 >> Dianbo Sui, Yubo Chen, Kang Liu, Jun Zhao, Shengping Liu
 >>
->> flat-zh-Weibo (63.09), flat-zh-OntoNotes 5.0 (74.79), flat-zh-MSRA (93.47)
+>> flat-zh-Weibo (63.09), flat-zh-OntoNotes 4.0 (74.79), flat-zh-MSRA (93.47)
 >
 > #### EMNLP-2019: [Similarity Based Auxiliary Classifier for Named Entity Recognition](paper/%5BEMNLP%202019%5D%20Similarity%20Based%20Auxiliary%20Classifier%20for%20Named%20Entity%20Recognition.pdf)
 >> Shiyuan Xiao, Yuanxin Ouyang, Wenge Rong, Jianxin Yang, Zhang Xiong
@@ -110,7 +113,7 @@
 > #### NAACL-2019: [CAN-NER: Convolutional Attention Network for Chinese Named Entity Recognition](paper/%5BNAACL%202019%5D%20CAN-NER-%20Convolutional%20Attention%20Network%20for%20Chinese%20Named%20Entity%20Recognition.pdf)
 >> Yuying Zhu, Guoxin Wang
 >>
->> flat-zh-OntoNotes 5.0 (73.64), flat-zh-MSRA (92.97), flat-zh-Weibo (59.31), flat-zh-Resume (94.94)
+>> flat-zh-OntoNotes 4.0 (73.64), flat-zh-MSRA (92.97), flat-zh-Weibo (59.31), flat-zh-Resume (94.94)
 >
 > #### NAACL-2019: [Cross-lingual Transfer Learning for Japanese Named Entity Recognition](paper/%5BNAACL%202019%5D%20Cross-lingual%20Transfer%20Learning%20for%20Japanese%20Named%20Entity%20Recognition.pdf)
 >> Andrew Johnson, Penny Karanasou, Judith Gaspers, Dietrich Klakow
@@ -128,6 +131,45 @@
 >> flat-en-CoNLL-2003 (93.18), flat-de-CoNLL-2003 (88.27), flat-nl-CoNLL-2003 (90.44), flat-en-WNUT-17 (49.59)
 
 ## 2018
+
+###  ACL-2018 (3)
+>
+> #### ACL-2018: [A Study of the Importance of External Knowledge in the Named Entity Recognition Task](paper/%5BACL%202018%5D%20A%20Study%20of%20the%20Importance%20of%20External%20Knowledge%20in%20the%20Named%20Entity%20Recognition%20Task.pdf)
+>> Dominic Seyler, Tatiana Dembelova, Luciano Del Corro, Johannes Hoffart and Gerhard Weikum
+>
+>> Survey
+>
+> #### ACL-2018: [Language Identification and Named Entity Recognition in Hinglish Code Mixed Tweets](paper/%5BACL%202018%5D%20Language%20Identification%20and%20Named%20Entity%20Recognition%20in%20Hinglish%20Code%20Mixed%20Tweets.pdf)
+>> Kushagra Singh, Indira Sen, Ponnurangam Kumaraguru
+>
+>> Hinglish
+>
+> #### ACL-2018: [Named Entity Recognition With Parallel Recurrent Neural Networks](paper/%5BACL%202018%5D%20Named%20Entity%20Recognition%20With%20Parallel%20Recurrent%20Neural%20Networks.pdf)
+>> Andrej Zukov-Gregoric, Yoram Bachrach, and Sam Coope
+>
+>> flat-en-CoNLL-2003 (91.48)
+
+### EMNLP-2018 (7)
+>
+> #### EMNLP-2018: [Adversarial Transfer Learning for Chinese Named Entity Recognition with Self-Attention Mechanism](paper/%5BEMNLP%202018%5D%20Adversarial%20Transfer%20Learning%20for%20Chinese%20Named%20Entity%20Recognition%20with%20Self-Attention%20Mechanism.pdf)
+>> Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, and Shengping Liu
+>
+>> flat-zh-Weibo (54.34), flat-zh-Sighan (90.64)
+>
+> #### EMNLP-2018: [Deep Exhaustive Model for Nested Named Entity Recognition](paper/%5BEMNLP%202018%5D%20Deep%20Exhaustive%20Model%20for%20Nested%20Named%20Entity%20Recognition.pdf)
+>> Mohammad Golam Sohrab, and Makoto Miwa
+>
+>> nest-en-GENIA (77.1), nest-en-JNLPBA (78.4)
+>
+> EMNLP-2018: [Marginal Likelihood Training of BiLSTM-CRF for Biomedical Named Entity Recognition from Disjoint Label Sets](paper/%5BEMNLP%202018%5D%20Marginal%20Likelihood%20Training%20of%20BiLSTM-CRF%20for%20Biomedical%20Named%20Entity%20Recognition%20from%20Disjoint%20Label%20Sets%20.pdf)
+>> Nathan Greenberg, Trapit Bansal, Patrick Verga, and Andrew McCallum
+>
+>> 
+
+> NAACL-2018: [Label-aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition](paper/%5BEMNLP%202018%5D%20Label-aware%20Double%20Transfer%20Learning%20for%20Cross-Specialty%20Medical%20Named%20Entity%20Recognition.pdf)
+>> Zhenghui Wang, Yanru Qu, Liheng Chen, Jian Shen, Weinan Zhang, Shaodian Zhang, Yimei Gao, Gen Gu, Ken Chen, Yong Yu
+>
+>> flat-zh-weibo-transfer (57.74), flat-en-twitter-transfer (45.71)
 
 ### COLING-2018 (5)
 >
