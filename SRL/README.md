@@ -28,7 +28,36 @@
 > #### EMNLP-2019: [Semi-Supervised Semantic Role Labeling with Cross-View Training](paper/%5BEMNLP-2019%5D%20Semi-Supervised%20Semantic%20Role%20Labeling%20with%20Cross-View%20Training.pdf)
 >> Rui Cai and Mirella Lapata
 >> 
+>> en-CoNLL2009-WSJ (91.2), en-CoNLL2009-Brown (82.5), zh-CoNLL2009 (85.0), de-CoNLL2009 (83.8), es-CoNLL2009 (82.9)
+>>
+>> gold-standard dependency annotations, and also gold lemmas, part-of-speech tags, and morphological features
+>
+> #### EMNLP-2019: [Syntax-aware Multilingual Semantic Role Labeling](paper/%5BAAAI-2019%5D%20Syntax-aware%20Neural%20Semantic%20Role%20Labeling∗.pdf)
+>>
+>> Shexia He, Zuchao Li, Hai Zhao
+>>
+>> all-language-CoNL2009, ca-CoNLL2009 (85.14), zh-CoNLL2009 (86.42), cz-CoNLL2009 (89.66), en-CoNLL2009 (90.86), de-CoNLL2009 (80.87), jp-CoNLL2009 (83.76), es-CoNLL2009 (84.60)
 >> 
+>> use dependency labels
+>
+> #### EMNLP-2019: [Syntax-Enhanced Self-Attention-Based Semantic Role Labeling](paper/%5BEMNLP-2019%5D%20Syntax-Enhanced%20Self-Attention-Based%20Semantic%20Role%20Labeling.pdf)
+>> 
+>> Yue Zhang, Rui Wang, Luo Si
+>>
+>> zh-CoNLL2009 (87.35)
+>>
+>> use dependency labels
+>
+> #### EMNLP-2019: [Translate and Label! An Encoder-Decoder Approach for Cross-lingual Semantic Role Labeling](paper/%5BEMNLP-2019%5D%20Translate%20and%20Label!%20An%20Encoder-Decoder%20Approach%20for%20Cross-lingual%20Semantic%20Role%20Labeling.pdf)
+>>
+>> Angel Daza and Anette Frank
+>> 
+>> en-CoNLL2005-WSJ (88.3), en-CoNLL2005-OOD (80.9), en-CoNLL2009-WSJ (90.8), en-CoNLL2009-OOD (84.1)
+>
+> #### EMNLP-2019: [VerbAtlas: a Novel Large-Scale Verbal Semantic Resource and Its Application to Semantic Role Labeling](paper/%5BEMNLP-2019%5D%20VerbAtlas-%20a%20Novel%20Large-Scale%20Verbal%20Semantic%20Resource%20and%20Its%20Application%20to%20Semantic%20Role%20Labeling%20.pdf)
+>> 
+>> Andrea Di Fabio, Simone Conia, Roberto Navigli
+
 
 ## 2018
 
