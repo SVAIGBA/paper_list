@@ -1,7 +1,7 @@
 ## 2019
 
 >#### ACL: [Context-aware Embedding for Targeted Aspect-based Sentiment Analysis](./paper/2019_ACL_Context-aware_Embedding_for_Targeted_Aspect-based_Sentiment_Analysis.pdf)  
->>Bin Liang, Jiachen Du, Ruifeng Xu, Binyang Li, Hejiao Huang  
+>>Bin Liang, Jiachen Du, Ruifeng Xu, Binyang Li, Hejiao Huang   
 >>SentiHood, Semeval 2015
 
 >#### ACL: [Transfer Capsule Network for Aspect Level Sentiment Classification](./paper/2019_ACL_TransCap.pdf)  
@@ -9,24 +9,24 @@
 >>Semeval 2014
 
 >#### ACL: [Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis](./paper/2019_ACL_PSSA.pdf)  
->>Jialong Tang, Ziyao Lu, Jinsong Su, Yubin Ge, Linfeng Song, Le Sun, Jiebo Luo
+>>Jialong Tang, Ziyao Lu, Jinsong Su, Yubin Ge, Linfeng Song, Le Sun, Jiebo Luo 
 >>Semeval 2014, Twitter
 
 >#### ACL: [An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis](./paper/2019_ACL_IMN-E2E.pdf)  
->>Ruidan He, Wee Sun Lee, Hwee Tou Ng, and Daniel Dahlmeier
+>>Ruidan He, Wee Sun Lee, Hwee Tou Ng, and Daniel Dahlmeier 
 >>Semeval 2014, Semeval 2015
 
 >#### NAACL: [Utilizing BERT for Aspect-Based Sentiment Analysis](./paper/2019_NAACL_BERT-AS.pdf)  
->>Chi Sun, Luyao Huang, Xipeng Qiu  
+>>Chi Sun, Luyao Huang, Xipeng Qiu   
 >>SentiHood, Semeval 2014
 
 >#### NAACL:[Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling](./paper/2019_NAACL_Target-oriented_Opinion_Words_Extraction_with_Target-fused_Neural_Sequence_Labeling.pdf)
->>Zhifang Fan, Zhen Wu, Xin-Yu Dai, Shujian Huang, Jiajun Chen  
+>>Zhifang Fan, Zhen Wu, Xin-Yu Dai, Shujian Huang, Jiajun Chen   
 >>Semeval 2014, Semeval 2015, Semeval 2016
 >
 >#### NAACL:[BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](./paper/2019_NAACL_BERT-PT.pdf)
 >
->>Hu Xu, Bing Liu, Lei Shu and Philip S. Yu  
+>>Hu Xu, Bing Liu, Lei Shu and Philip S. Yu   
 >>Semeval 2014, Semeval 2015, Semeval 2016
 >
 >#### EMNLP:[Exploiting BERT for End-to-End Aspect-based Sentiment Analysis](./paper/2019_EMNLP_BERT-E2E.pdf)
@@ -36,17 +36,17 @@
 >
 >#### EMNLP:[Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning](./paper/2019_EMNLP_Transferable-E2E.pdf)
 >
->>Zheng Li, Xin Li, Ying Wei, Lidong Bing, Yu Zhang, Qiang Yang
+>>Zheng Li, Xin Li, Ying Wei, Lidong Bing, Yu Zhang, Qiang Yang 
 >>Semeval 2014, Semeval 2015, Semeval 2016
 >
 >#### EMNLP:[Learning Explicit and Implicit Structures for Targeted Sentiment Analysis](./paper/2019_EMNLP_EI.pdf)
 >
->>Hao Li and Wei Lu
+>>Hao Li and Wei Lu 
 >>Twitter
 >
 >#### EMNLP:[Recognizing Conflict Opinions in Aspect-level Sentiment Classification with Dual Attention Networks](./paper/2019_EMNLP_CONFLICT.pdf)
 >
->>Xingwei Tan, Yi Cai and Changxi Zhu
+>>Xingwei Tan, Yi Cai and Changxi Zhu 
 >>Semeval 2014
 >
 >#### EMNLP:[CAN: Constrained Attention Networks for Multi-Aspect Sentiment Analysis](./paper/2019_EMNLP_CAN.pdf)
@@ -76,7 +76,7 @@
 >
 >#### EMNLP:[Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks](./paper/2019_EMNLP_ASGCN.pdf)
 >
->>Chen Zhang, Qiuchi Li and Dawei Song 
+>>Chen Zhang, Qiuchi Li and Dawei Song  
 >>Semeval 2014, Semeval 2015, Semeval 2016, Twitter
 >
 >#### EMNLP:[Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree](./paper/22019_EMNLP_CDT.pdf)
@@ -136,17 +136,17 @@
 
 >#### NAACL: [Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis](./paper/2018_NAACL_IAD.pdf)
 >
->>Devamanyu Hazarika  Soujanya Poria Prateek Vij Gangeshwar Krishnamurthy Erik Cambria Roger Zimmermann
+>>Devamanyu Hazarika  Soujanya Poria Prateek Vij Gangeshwar Krishnamurthy Erik Cambria Roger Zimmermann  
 >>Semeval 2014
 
 >#### EMNLP: [Joint Learning for Targeted Sentiment Analysis](./paper/2018_EMNLP_HMBi-E2E.pdf)
 >
->>Dehong Ma, Sujian Li and Houfeng Wang
+>>Dehong Ma, Sujian Li and Houfeng Wang  
 >>Semeval 2014
 
 >#### EMNLP: [Joint Aspect and Polarity Classification for Aspect-based Sentiment Analysis with End-to-End Neural Networks](./paper/2018_EMNLP_GermEval-E2E.pdf)
 >
->>Martin Schmitt, Simon Steinheber, Konrad Schreiber and Benjamin Roth
+>>Martin Schmitt, Simon Steinheber, Konrad Schreiber and Benjamin Roth  
 >>GermEval
 
 >#### EMNLP: [Parameterized Convolutional Neural Networks for Aspect Level Sentiment Classification](./paper/2018_EMNLP_PF-CNN.pdf)
@@ -156,7 +156,7 @@
 
 >#### EMNLP: [Multi-grained Attention Network for Aspect-Level Sentiment Classification](./paper/2018_EMNLP_MGAN.pdf)
 >
->>Feifan Fan Yansong Feng Dongyan Zhao
+>>Feifan Fan Yansong Feng Dongyan Zhao  
 >>Semeval 2014, Twitter
 
 >#### EMNLP: [IARM: Inter-Aspect Relation Modeling with Memory Networks in Aspect-Based Sentiment Analysis](./paper/2018_EMNLP_IARM.pdf)
