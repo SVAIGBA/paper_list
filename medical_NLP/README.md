@@ -2,7 +2,7 @@
 >#### ACL: [Attend to Medical Ontologies: Content Selection for Clinical Abstractive Summarization](paper/AttendtoOntologies.pdf)
 >
 >> Authors: Sajad Sotudeh1, Nazli Goharian1, and Ross W. Filice2. IR Lab, Georgetown University, Washington DC 20057, USA
->>
+
 >> Datasets: MIMIC-CXR, OpenI, Ontologies (a comprehensive radiology lexicon)
 
 >#### ACL: [Towards Interpretable Clinical Diagnosis with Bayesian Network Ensembles Stacked on Entity-Aware CNNs](paper/TowardsInterpretableClinical.pdf)
