@@ -9,14 +9,6 @@
 >#### SIGIR 2020: [Multi-Modal Summary Generation using Multi-Objective Optimization](./paper/2005.09252.pdf)  
 >> Anubhav Jangra, Sriparna Saha, Mohammad Hasanuzzaman, Adam Jatowt
 
->#### SIGIR 2020: [Aspect-Aware Multimodal Summarization for Chinese E-Commerce Products](./paper/AAAI-LiH.902.pdf)  
->> Haoran Li, Peng Yuan, Song Xu, Youzheng Wu, Xiaodong He, Bowen Zhou
-
-
-
-
-
-
 >#### AAAI 2020: [Aspect-Aware Multimodal Summarization for Chinese E-Commerce Products](./paper/AAAI-LiH.902.pdf)  
 >> Haoran Li, Peng Yuan, Song Xu, Youzheng Wu, Xiaodong He, Bowen Zhou
 
