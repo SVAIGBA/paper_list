@@ -157,6 +157,7 @@
 >> | ---------------------- | ----- | ----- | ----- | ------ |
 >> | Beam + BPNorm (c=0.55) | 39.19 | 20.38 | 36.69 | 61.46  |
 >> | Beam + SBWR(r=0.25)    | 39.08 | 20.47 | 36.68 | 61.51  |
+>>
 >> ROUGE F1, WMD unigram and BERTScore F1 evaluation on the Gigaword test set
 >>
 >> | Model    | RG-1  | RG-2  | RG-L  | Bert-S |
@@ -246,6 +247,7 @@
 >> | ATS     | Adapt | 40.86 | 24.12 | 36.97 | 22.15 |
 >>
 >> Rouge F1 Scores and MoverScore scores on En2ZhSum test set
+>>
 >> | Methods | Model | R-1   | R-2   | R-L   |
 >> | ------- | ----- | ----- | ----- | ----- |
 >> | ATS     | Naive | 40.19 | 21.84 | 36.46 |
