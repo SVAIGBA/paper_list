@@ -1,14 +1,13 @@
-| Datasets       |         R-1          |         R-2          |         R-L          |  WMD  | BERT-S |                           Methods                            |
-| :--------------: | :------------------: | :------------------: | :------------------: | :---: | :----: | :----------------------------------------------------------: |
-| CNN/DM         | 43.77<br />**44.41** | 20.85<br />**20.86** | **40.67**<br />40.55 |   -   |   -    | [DISCOBERT W.GR&GC](./paper/2020.acl-main.451.pdf)<br />[MATCHSUM (ROBERTa-base)](./paper/2004.08795.pdf) |
-| Gigaword       |        40.89         |        19.11         |        37.60         | 34.39 | 62.74  |              [best-abs](./paper/1911.10390.pdf)              |
-| DUC2004        |        31.00         |        11.11         |        26.94         | 26.71 | 57.99  |             [SemSUM](./paper/AAAI-JinH.7203.pdf)             |
-| NewSroom       |        45.93         |        24.14         |        42.51         |   -   | 66.20  |              [best-abs](./paper/1911.10390.pdf)              |
-| WEBMERGE       |                      |                      |                      |       |        |                                                              |
-| XSUM           |        24.86         |         4.58         |        18.31         |   -   |   -    |        [MATCHSUM (Sel = 1,2)](./paper/2004.08795.pdf)        |
-| New York Times |        50.00         |        30.38         |        42.70         |   -   |   -    |      [DISCOBERT W.GR&GC](./paper/2020.acl-main.451.pdf)      |
-| MSR-ATC        |        33.82         |        17.08         |        30.62         | 17.14 | 56.19  |             [SemSUM](./paper/AAAI-JinH.7203.pdf)             |
-| Reddit         |        25.09         |         6.17         |        20.13         |   -   |   -    |        [MATCHSUM (Sel = 1,2)](./paper/2004.08795.pdf)        |
+| Datasets       |         R-1          |         R-2          |         R-L          |                            Methods                            |
+| :--------------: | :------------------: | :------------------: | :------------------: | :----------------------------------------------------------: |
+| CNN/DM         | 43.77<br />**44.41** | 20.85<br />**20.86** | **40.67**<br />40.55 | [DISCOBERT W.GR&GC](./paper/2020.acl-main.451.pdf)<br />[MATCHSUM (ROBERTa-base)](./paper/2004.08795.pdf) |
+| Gigaword       |        40.89         |        19.11         |        37.60         |              [best-abs](./paper/1911.10390.pdf)              |
+| DUC2004        |        31.00         |        11.11         |        26.94         |              [SemSUM](./paper/AAAI-JinH.7203.pdf)             |
+| NewSroom       |        45.93         |        24.14         |        42.51         |              [best-abs](./paper/1911.10390.pdf)              |
+| XSUM           |        24.86         |         4.58         |        18.31         |        [MATCHSUM (Sel = 1,2)](./paper/2004.08795.pdf)        |
+| New York Times |        50.00         |        30.38         |        42.70         |      [DISCOBERT W.GR&GC](./paper/2020.acl-main.451.pdf)      |
+| MSR-ATC        |        33.82         |        17.08         |        30.62         |             [SemSUM](./paper/AAAI-JinH.7203.pdf)             |
+| Reddit         |        25.09         |         6.17         |        20.13         |        [MATCHSUM (Sel = 1,2)](./paper/2004.08795.pdf)        |
 
 
 
