@@ -24,6 +24,7 @@
 
 >#### AAAI 2020: [Aspect-Aware Multimodal Summarization for Chinese E-Commerce Products](./paper/AAAI-LiH.902.pdf)  
 >> Author: Haoran Li, Peng Yuan, Song Xu, Youzheng Wu, Xiaodong He, Bowen Zhou
+>>
 >> Dataset: CEPSUM (A new dataset from JD.com)
 >> Score:  
 >>
