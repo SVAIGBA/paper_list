@@ -34,3 +34,39 @@
 >> Authors: Shadi Saleh and Pavel Pecina. Charles University
 
 >> Datasets: UFAL Medical Corpus
+
+>#### ACL: [Biomedical Entity Representations with Synonym Marginalization](paper/biomedicalentity.pdf)
+>
+>> Authors: Mujeen Sung, Hwisang Jeon, Jinhyuk Lee, Jaewoo Kang. Korea University
+
+>> Datasets: NCBI Disease Corpus, Biocreative V CDR, TAC2017ADR
+
+>#### ACL: [Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports](paper/astudyforRadiologyreport.pdf)
+>
+>> Authors: Yuhao Zhang, Derek Merck, Emily Bao Tsai, Christopher D. Manning, Curtis P. Langlotz. Stanford University, University of Florida
+
+>> Datasets: Chest radiographic reports which are collected from two collaborating hospitals
+
+>#### ACL: [Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification](paper/Amalgamation.pdf)
+>
+>> Authors: Pratik Dutta, Sriparna Saha. Indian Institute of Technology Patna
+
+>> Datasets: BioInfer, HRPD50
+
+>#### ACL: [Closing the Gap: Joint De-Identification and Concept Extraction in the Clinical Domain](paper/Closinggap.pdf)
+>
+>> Authors: Lukas Lange, Heike Adel, Jannik Strotgen. Bosch Center for Artificial Intelligence, Renningen, Germany
+
+>> Datasets: i2b2 2010 CE task,  i2b2 2014 de-identification task, MEDDOCAN corpus
+
+>#### ACL: [Rationalizing Medical Relation Prediction from Corpus-level Statistics](paper/Rationalizing.pdf)
+>
+>> Authors: Zhen Wang, Jennifer Lee, Simon Lin, Huan Sun
+
+>> Datasets: Propose a new dataset 
+
+>#### ACL: [A Generate-and-Rank Framework with Semantic Type Regularization for Biomedical Concept Normalization](paper/agenerateandrank.pdf)
+>
+>> Authors: Dongfang Xu and Zeyu Zhang and Steven Bethard. University of Arizona
+
+>> Datasets: AskAPatient, SMM4H-17, MCN
