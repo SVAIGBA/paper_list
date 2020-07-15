@@ -1,5 +1,11 @@
 # Relation Extraction Paper List
 
+| Datasets       |         F1         |                            Methods                          |
+| :------------------: | :------------------: | :----------------------------------------------------------: |
+| SemEval-2010 Task 8 |0.910| [REDN](./paper/Downstream Model Design of Pre-trained Language Model for Relation Extraction Task.pdf) |
+
+
+
 ## 2019
 
 >#### ACL-2019: [Span-Level Model for Relation Extraction](./paper/SLM-ACL-19.pdf)
