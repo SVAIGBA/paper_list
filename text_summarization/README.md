@@ -261,11 +261,6 @@
 >> | ATS     | Adapt | 40.86 | 24.12 | 36.97 | 22.15 |
 >>
 >> Rouge F1 Scores and MoverScore scores on En2ZhSum test set
-<<<<<<< HEAD
->> 
-=======
->>
->>>>>>> c76cea841924194b18283bc2ea242b1a588e4cee
 >> | Methods | Model | R-1   | R-2   | R-L   |
 >> | ------- | ----- | ----- | ----- | ----- |
 >> | ATS     | Naive | 40.19 | 21.84 | 36.46 |
