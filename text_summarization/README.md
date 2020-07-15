@@ -172,14 +172,8 @@
 >> | ---------------------- | ----- | ----- | ----- | ------ |
 >> | Beam + BPNorm (c=0.55) | 39.19 | 20.38 | 36.69 | 61.46  |
 >> | Beam + SBWR(r=0.25)    | 39.08 | 20.47 | 36.68 | 61.51  |
-<<<<<<< HEAD
 >> 
 >> ROUGE F1, WMD unigram and BERTScore F1 evaluation on the NewSroom test set
-=======
->>
->> ROUGE F1, WMD unigram and BERTScore F1 evaluation on the Gigaword test set
->>>>>>> c76cea841924194b18283bc2ea242b1a588e4cee
->>
 >> | Model    | RG-1  | RG-2  | RG-L  | Bert-S |
 >> | -------- | ----- | ----- | ----- | ------ |
 >> | pure-ext | 43.21 | 21.81 | 40.05 | 63.68  |
