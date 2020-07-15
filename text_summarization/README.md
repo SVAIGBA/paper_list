@@ -1,3 +1,16 @@
+| Datasets       |         R-1          |         R-2          |         R-L          |                            Methods                            |
+| :--------------: | :------------------: | :------------------: | :------------------: | :----------------------------------------------------------: |
+| CNN/DM         | 43.77<br />**44.41** | 20.85<br />**20.86** | **40.67**<br />40.55 | [DISCOBERT W.GR&GC](./paper/2020.acl-main.451.pdf)<br />[MATCHSUM (ROBERTa-base)](./paper/2004.08795.pdf) |
+| Gigaword       |        40.89         |        19.11         |        37.60         |              [best-abs](./paper/1911.10390.pdf)              |
+| DUC2004        |        31.00         |        11.11         |        26.94         |              [SemSUM](./paper/AAAI-JinH.7203.pdf)             |
+| NewSroom       |        45.93         |        24.14         |        42.51         |              [best-abs](./paper/1911.10390.pdf)              |
+| XSUM           |        24.86         |         4.58         |        18.31         |        [MATCHSUM (Sel = 1,2)](./paper/2004.08795.pdf)        |
+| New York Times |        50.00         |        30.38         |        42.70         |      [DISCOBERT W.GR&GC](./paper/2020.acl-main.451.pdf)      |
+| MSR-ATC        |        33.82         |        17.08         |        30.62         |             [SemSUM](./paper/AAAI-JinH.7203.pdf)             |
+| Reddit         |        25.09         |         6.17         |        20.13         |        [MATCHSUM (Sel = 1,2)](./paper/2004.08795.pdf)        |
+
+
+
 ## 2020
 
 >#### SIGIR 2020: [Large Scale Abstractive Multi-Review Summarization (LSARS) via Aspect Alignment](./paper/AAAI-LiH.902.pdf)  
@@ -24,6 +37,7 @@
 
 >#### AAAI 2020: [Aspect-Aware Multimodal Summarization for Chinese E-Commerce Products](./paper/AAAI-LiH.902.pdf)  
 >> Author: Haoran Li, Peng Yuan, Song Xu, Youzheng Wu, Xiaodong He, Bowen Zhou
+>>
 >> Dataset: CEPSUM (A new dataset from JD.com)
 >> Score:  
 >>
@@ -65,6 +79,7 @@
 
 >#### AAAI 2020: [Keywords-Guided Abstractive Sentence Summarization](./paper/AAAI-LiH.1493.pdf)  
 >> Author: Haoran Li, Junnan Zhu, Jiajun Zhang, Chengqing Zong, Xiaodong He 
+>> Github: None
 >> Dataset: English Gigaword dataset
 >> Score:
 >>
@@ -121,7 +136,6 @@
 >> | MultiSumm | Rouge-2 | 21.86        17.96         12.24        11.78         21.86  | 8.35       8.75                                      |
 >> | MultiSumm | Rouge-L | 39.77        33.07         26.22        23.57         33.61  | 19.42     19.63                                      |
 >>
->> 
 
 >#### AAAI 2020: [SemSUM: Semantic Dependency Guided Neural Abstractive Summarization](./paper/AAAI-JinH.7203.pdf)  
 >> Author: Hanqi Jin, Tianming Wang,Xiaojun Wan
@@ -158,8 +172,13 @@
 >> | ---------------------- | ----- | ----- | ----- | ------ |
 >> | Beam + BPNorm (c=0.55) | 39.19 | 20.38 | 36.69 | 61.46  |
 >> | Beam + SBWR(r=0.25)    | 39.08 | 20.47 | 36.68 | 61.51  |
+<<<<<<< HEAD
+>> 
+>> ROUGE F1, WMD unigram and BERTScore F1 evaluation on the NewSroom test set
+=======
 >>
 >> ROUGE F1, WMD unigram and BERTScore F1 evaluation on the Gigaword test set
+>>>>>>> c76cea841924194b18283bc2ea242b1a588e4cee
 >>
 >> | Model    | RG-1  | RG-2  | RG-L  | Bert-S |
 >> | -------- | ----- | ----- | ----- | ------ |
@@ -248,7 +267,11 @@
 >> | ATS     | Adapt | 40.86 | 24.12 | 36.97 | 22.15 |
 >>
 >> Rouge F1 Scores and MoverScore scores on En2ZhSum test set
+<<<<<<< HEAD
+>> 
+=======
 >>
+>>>>>>> c76cea841924194b18283bc2ea242b1a588e4cee
 >> | Methods | Model | R-1   | R-2   | R-L   |
 >> | ------- | ----- | ----- | ----- | ----- |
 >> | ATS     | Naive | 40.19 | 21.84 | 36.46 |
@@ -268,6 +291,7 @@
 >> | DISCOBERT W.GR&GC | 43.77 | 20.85 | 40.67 |
 >>
 >> Results on the test set of the NYT dataset
+>> 
 >> | Methods           |  R-1  |  R-2  |  R-L  |
 >> | ----------------- | :---: | :---: | :---: |
 >> | DISCOBERT W.GC    | 49.79 | 30.18 | 42.48 |
@@ -292,6 +316,14 @@
 >> |   hc_title_10+billon_10    |  title+billon   |  10   | 28.80 | 10.66 | 25.82 |
 >> |       hc_article_50p       |     article     |  50%  | 25.58 | 8.44  | 22.66 |
 >> |        hc_title_50p        |      title      |  50%  | 27.05 | 9.75  | 23.89 |
+>> 
+>> Results for headline generation on the DUC2004 test set.
+>>
+>> |         Model         |  R-1  |  R-2  |  R-L  |
+>> | :-------------------: | :---: | :---: | :---: |
+>> | HC_article_13 |24.21 | 6.63 | 21.24 |
+>> | HC_title_13 | 26.04 | 8.06 | 22.90 |
+>> | HC_title + twitter_13 | 27.41 | 8.76 | 23.89 |
 
 >#### ACL 2020: [Examining the State-of-the-Art in News Timeline Summarization](./paper/2005.10107.pdf)  
 >> Author: Demian Gholipour Ghalandari and Georgiana Ifrim
