@@ -2,7 +2,7 @@
 
 | Datasets       |         F1         |                            Methods                          |
 | :------------------: | :------------------: | :----------------------------------------------------------: |
-| SemEval-2010 Task 8 |0.910| [REDN](https://github.com/SVAIGBA/paper_list/blob/master/relation_extraction/paper/Downstream%20Model%20Design%20of%20Pre-trained%20Language%20Model%20for%20Relation%20Extraction%20Task.pdf) |
+| SemEval-2010 Task 8 |0.910| [REDN](./paper/Downstream Model Design of Pre-trained Language Model for Relation Extraction Task.pdf) |
 
 
 
