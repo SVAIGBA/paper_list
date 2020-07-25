@@ -2,7 +2,7 @@
 
 | Datasets  |  MRR  | Hit@10 |                           Method                           |
 | :-------: | :---: | :----: | :--------------------------------------------------------: |
-| FB15k-237 | 0.399 | 0.571  | [ParamE](./paper/5665-Article Text-8890-1-10-20200513.pdf) |
+| FB15k-237 | 0.399 | 0.571  | [ParamE](./paper/5665-Article-Text-8890-1-10-20200513.pdf) |
 |  WN18RR   | 0.491 | 0.583  |            [OTE](./paper/2020.acl-main.241.pdf)            |
 
 ## 2020
@@ -168,7 +168,7 @@
 > > | :------: | :-------: | :----: |
 > > | Accuracy |   0.764   | 0.804  |
 >
-> #### AAAI 2020: [Contextual Parameter Generation for Knowledge Graph Link Prediction](./paper/5693-Article Text-8918-1-10-20200513.pdf)  
+> #### AAAI 2020: [Contextual Parameter Generation for Knowledge Graph Link Prediction](./paper/5693-Article-Text-8918-1-10-20200513.pdf)  
 >
 > > Author: George Stoica, Otilia Stretcu, Emmanouil Antonios Platanios, Tom M. Mitchell, Barnabas Poczos
 > >
@@ -179,7 +179,7 @@
 > > |   MRR   | 0.971 | 0.483  |  0.426   |  0.787   |
 > > | Hit@10  | 0.997 | 0.561  |  0.629   |  0.884   |
 >
-> #### AAAI 2020: [ParamE: Regarding Neural Network Parametersas Relation Embeddings for Knowledge Graph Completion](./paper/5665-Article Text-8890-1-10-20200513.pdf)  
+> #### AAAI 2020: [ParamE: Regarding Neural Network Parametersas Relation Embeddings for Knowledge Graph Completion](./paper/5665-Article-Text-8890-1-10-20200513.pdf)  
 >
 > > Author: Feihu Che, Dawei Zhang, Jianhua Tao, Mingyue Niu, Bocheng Zhao
 > >
