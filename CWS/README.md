@@ -1,3 +1,14 @@
+## 2020  
+
+>#### ACL: [Improving Chinese Word Segmentation with Wordhood Memory Networks](./paper/2020.acl-main.734.pdf)
+>> Yuanhe Tian, Yan Song, Fei Xia, Tong Zhang, Yonggang Wang  
+>> SIGHAN2005, CTB6
+
+>#### ACL: [Coupling Distant Annotation and Adversarial Training for Cross-Domain Chinese Word Segmentation](./paper/2020.acl-main.595.pdf)  
+>> Ning Ding, Dingkun Long, Guangwei Xu, Muhua Zhu, Pengjun Xie, Xiaobin Wang, Haitao Zheng  
+>> PKU, DoLuoDaLu, FanRenXiuXianZhuan, ZhuXian, dermatology, patent  
+
+
 ## 2019  
 
 >#### NAACL: [Incorporating Word Attention into Character-Based Word Segmentation](./paper/N19-1276.pdf)  
