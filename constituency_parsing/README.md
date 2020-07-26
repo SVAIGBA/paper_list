@@ -1,9 +1,23 @@
+## 2020  
+
+>> ACL: [Efficient Constituency Parsing by Pointing](./paper/2020.acl-main.301.pdf)  
+>> Thanh-Tung Nguyen, Xuan-Phi Nguyen, Shafiq Joty, Xiaoli Li  
+>> PTB  
+
 
 ## 2019  
 
 >#### ACL: [Multilingual Constituency Parsing with Self-Attention and Pre-Training](./paper/P19-1340.pdf)  
 >> Nikita Kitaev, Steven Cao, Dan Klein  
 >> CTB5, PTB  
+
+>#### ACL: [Head-Driven Phrase Structure Grammar Parsing on Penn Treebank](./paper/P19-1230.pdf)  
+>> Junru Zhou, Hai Zhao  
+>> PTB-SD, CTB  
+
+>#### arXiv: [Rethinking Self-Attention: Towards Interpretability in Neural Parsing](./paper/Label_Attention_Layer.pdf)  
+>> Khalil Mrini, Franck Dernoncourt, Trung Bui, Walter Chang, Ndapa Nakashole  
+>> PTB-SD, CTB  
 
 ## 2018  
 
