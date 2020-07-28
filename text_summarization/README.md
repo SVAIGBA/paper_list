@@ -151,10 +151,15 @@
 >> | ---------------------- | ----- | ----- | ----- | ------ |
 >> | Beam + BPNorm (c=0.55) | 39.19 | 20.38 | 36.69 | 61.46  |
 >> | Beam + SBWR(r=0.25)    | 39.08 | 20.47 | 36.68 | 61.51  |
+<<<<<<< HEAD
 >>ROUGE F1 and BERTScore F1 evaluation on the NewSroom test set
 >> 
 | Model    | RG-1  | RG-2  | RG-L  | Bert-S |
 >>| -------- | ----- | ----- | ----- | ------ |
+>> ROUGE F1, WMD unigram and BERTScore F1 evaluation on the NewSroom test set
+>> | Model    | RG-1  | RG-2  | RG-L  | Bert-S |
+>> | -------- | ----- | ----- | ----- | ------ |
+>>>>>>> ebaed7f651fcaba2dce11657f661ae9f4e246191
 >> | pure-ext | 43.21 | 21.81 | 40.05 | 63.68  |
 >>| best-abs | 45.93 | 24.14 | 42.51 | 66.20  |
 >>
@@ -518,7 +523,7 @@
 >#### ACL 2019: [Multimodal Abstractive Summarization for How2 Videos](./paper/P19-1659.pdf)  
 >> Author: Shruti Palaskar | Jindřich Libovický | Spandana Gella | Florian Metze
 
->#### AAAI 2019: [DeepChannel: Salience Estimation by Contrastive Learning for Extractive DocumentSummarization](./paper/4679-Article Text-7718-1-10-20190707.pdf)  
+>#### AAAI 2019: [DeepChannel: Salience Estimation by Contrastive Learning for Extractive DocumentSummarization](./paper/4679-Article Text-7718-1-10-20190707.pdf) 
 >> Author: Jiaxin Shi; Chen Liang ; Lei Hou ; Juanzi Li;Hanwang Zhang;Zhiyuan Liu
 
 >#### AAAI 2019: [ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific PaperSummarization with Citation Networks](./paper/4727-Article Text-7766-2-10-20190721.pdf)  

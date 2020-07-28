@@ -1,3 +1,9 @@
+## 2020  
+
+>#### ACL: [Max-Margin Incremental CCG Parsing](./paper/2020.acl-main.378.pdf)  
+>> Miloš Stanojević, Mark Steedman  
+>> CCGbank  
+
 ## 2019  
 
 >#### NAACL: [CCG Parsing Algorithm with Incremental Tree Rotation](./paper/N19-1020.pdf)  
