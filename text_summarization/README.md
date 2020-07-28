@@ -651,19 +651,19 @@
 >#### ACL 2019: [Multimodal Abstractive Summarization for How2 Videos](./paper/P19-1659.pdf)  
 >> Author: Shruti Palaskar | Jindřich Libovický | Spandana Gella | Florian Metze
 
->#### AAAI 2019: [DeepChannel: Salience Estimation by Contrastive Learning for Extractive DocumentSummarization](./paper/4679-Article Text-7718-1-10-20190707.pdf) 
+>#### AAAI 2019: [DeepChannel: Salience Estimation by Contrastive Learning for Extractive DocumentSummarization](./paper/4679-Article-Text-7718-1-10-20190707.pdf) 
 >> Author: Jiaxin Shi; Chen Liang ; Lei Hou ; Juanzi Li;Hanwang Zhang;Zhiyuan Liu
 
->#### AAAI 2019: [ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific PaperSummarization with Citation Networks](./paper/4727-Article Text-7766-2-10-20190721.pdf)  
+>#### AAAI 2019: [ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific PaperSummarization with Citation Networks](./paper/4727-Article-Text-7766-2-10-20190721.pdf)  
 >> Author: Michihiro Yasunaga ; Jungo Kasai;Rui Zhang ;Alexander R Fabbri ;Irene Li ; Dan Friedman Dragomir Radev 
 
->#### AAAI 2019: [Exploring Human Reading Cognition for Abstractive Text Summarization](./paper/4724-Article Text-7763-1-10-20190707.pdf)  
+>#### AAAI 2019: [Exploring Human Reading Cognition for Abstractive Text Summarization](./paper/4724-Article-Text-7763-1-10-20190707.pdf)  
 >> Author: Min Yang ; Qiang Qu (SIAT); Zhou Zhao ;Xiaojun Chen ; Ying Shen; Wenting Tu 
 
->#### AAAI 2019: [Generating Character Descriptions for Automatic Summarization of Fiction](./paper/4738-Article Text-7777-1-10-20190707.pdf)  
+>#### AAAI 2019: [Generating Character Descriptions for Automatic Summarization of Fiction](./paper/4738-Article-Text-7777-1-10-20190707.pdf)  
 >> Author: Weiwei Zhang; Jackie Chi Kit Cheung; Joel Oren 
 
->#### AAAI 2019: [Towards Personalized Review Summarization via User-aware Sequence Network](./paper/4640-Article Text-7679-1-10-20190707.pdf)  
+>#### AAAI 2019: [Towards Personalized Review Summarization via User-aware Sequence Network](./paper/4640-Article-Text-7679-1-10-20190707.pdf)  
 >> Author: Junjie Li ; Haoran Li ; Chengqing Zong 
 
 >#### EMNLP 2019: [An Entity-Driven Framework for Abstractive Summarization](./paper/EMNLP2019_sharma_huang_hu_wang.pdf)  
