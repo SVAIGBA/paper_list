@@ -1,4 +1,5 @@
-| Model |  OntoNotes  |  MSRA  |  Resume  |  Weibo  |
+| Chinese NER Results |
+| Methods |  OntoNotes  |  MSRA  |  Resume  |  Weibo  |
 | :---: | :---: | :---: | :---: | :---: |
 | TENER  | 72.82 | 93.01 | 95.25 | 58.39 |
 | Lattice LSTM | 73.88 | 93.18 | 94.46 | 58.79 |
