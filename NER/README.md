@@ -6,9 +6,36 @@
 | Simple Lexicon | 75.54 | 93.50 | 95.59 | 59.92 |
 | Glyce-BERT | 81.63 | 95.54 | **96.54** | 67.60 |
 | BERT-MRC | **82.11** | 95.75 | - | - |
-| BERT-FLAT | 81.82 | **96.09** | **95.86** | **68.55** |
+| BERT-FLAT | 81.82 | **96.09** | 95.86 | **68.55** |
 
 ## 2020
+### ACL-2020
+
+> #### ACL-2020: [FLAT: Chinese NER Using Flat-Lattice Transformer](paper/%5BACL%202020%5D%20FLAT.pdf)
+>> Xiaonan Li, Hang Yan, Xipeng Qiu, Xuanjing Huang
+>>
+>> OntoNotes, MSRA, Resume, Weibo
+
+### ACL-2020
+
+> #### ACL-2020: [A Unified MRC Framework for Named Entity Recognition](paper/%5BACL%202020%5D%20BERT-MRC.pdf)
+>> Xiaoya Li, Jingrong Feng, Yuxian Meng, Qinghong Han, Fei Wu and Jiwei Li
+>>
+>> OntoNotes, MSRA, Conll2003, ACE2004, ACE2005, GENIA, KHP.
+
+### ACL-2020
+
+> #### ACL-2020: [Simplify the Usage of Lexicon in Chinese NER](paper/%5BACL%202020%5D%20SimplifyLexicon.pdf)
+>> Minlong Peng, Ruotian Ma, Qi Zhang, Xuanjing Huang
+>>
+>> OntoNotes, MSRA, Resume, Weibo.
+
+### ACL-2020
+
+> #### ACL-2020: [Named Entity Recognition as Dependency Parsing](paper/%5BACL%202020%5D%20NER%20as%20Dep.pdf)
+>> Juntao Yu, Bernd Bohnet, Massimo Poesio
+>>
+>> Conll2003, ACE2004, ACE2005, GENIA, OntoNotes
 
 ### AAAI-2020
 
