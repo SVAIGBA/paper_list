@@ -69,7 +69,7 @@
 >> Diego Marcheggiani, Ivan Titov  
 >> CoNLL09  
 
->> EMNLP: [Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling](./paper/D17-1159.pdf)  
+>> EMNLP: [A Joint Sequential and Relational Model for Frame-Semantic Parsing](./paper/D17-1159.pdf)  
 >> Bishan Yang, Tom Mitchell  
 
 ## 2015
