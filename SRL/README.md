@@ -68,7 +68,8 @@
 >> EMNLP: [Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling](./paper/D17-1159.pdf)  
 >> Diego Marcheggiani, Ivan Titov  
 >> CoNLL09  
->> EMNLP: [>> EMNLP: [Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling](./paper/D17-1159.pdf)  
+
+>> EMNLP: [Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling](./paper/D17-1159.pdf)  
 >> Bishan Yang, Tom Mitchell  
 
 ## 2015
