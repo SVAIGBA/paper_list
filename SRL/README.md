@@ -69,6 +69,11 @@
 >> Diego Marcheggiani, Ivan Titov  
 >> CoNLL09  
 
+## 2015
+
+>> EMNLP: [Semantic Role Labeling with Neural Network Factors](./paper/D17-1159.pdf)  
+>> Nicholas FitzGerald, Oscar Täckström  
+
 ## 2006
 
 > BioNLP-2006: [BIOSMILE - Adapting Semantic Role Labeling for  Biomedical Verbs - An Exponential Model Coupled with Automatic Generated Template Features](paper/%5BBioNLP-2006%5D%20BIOSMILE-%20Adapting%20Semantic%20Role%20Labeling%20for%20Biomedical%20Verbs-%20An%20Exponential%20Model%20Coupled%20with%20Automatically%20Generated%20Template%20Features.pdf)
