@@ -13,6 +13,14 @@
 >#### BMVC 2019: [Addressing data bias problems for chest x-ray image report generation](https://arxiv.org/pdf/1908.02123)
 >
 >> Author: Philipp Harzig, Yan-Ying Chen, Francine Chen, Rainer Lienhart
+>
+>#### ICDM 2019: [Automatic Generation of Medical Imaging Diagnostic Report with Hierarchical Recurrent Neural Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8970668)
+>
+>> Author: Changchang Yin, Buyue Qian, Jishang Wei, Xiaoyu Li, Xianli Zhang, Yang Li, Qinghua Zheng
+>
+>#### Arxiv 2019: [MIMIC-CXR-JPG, A LARGE PUBLICLY AVAILABLE DATABASE OF LABELED CHEST RADIOGRAPHS](https://arxiv.org/pdf/1901.07042)
+>
+>> Author: Alistair E. W. Johnson, Tom J. Pollard, Nathaniel R. Greenbaum, Matthew P. Lungren, Chih-ying Deng, Yifan Peng, Zhiyong Lu, Roger G. Mark, Seth J. Berkowitz, Steven Horng
 
 ## 2018
 
@@ -35,7 +43,11 @@
 
 ## 2016
 
->#### CVPR 2016: [Learning to read chest x-rays: Recurrent neural cascade model for automated image annotation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Shin_Learning_to_Read_CVPR_2016_paper.pdf)
+>#### CVPR 2016: [Preparing a collection of radiology examinations for distribution and retrieval](https://academic.oup.com/jamia/article/23/2/304/2572395)
 >
 >> Author: Hoo-Chang Shin, Kirk Roberts, Le Lu, Dina Demner-Fushman, Jianhua Yao, Ronald M Summers
+>
+>#### JAMIA 2016: [Preparing a collection of radiology examinations for distribution and retrieval](https://academic.oup.com/jamia/article/23/2/304/2572395)
+>
+>> Author: Dina Demner-Fushman, Marc D Kohli, Marc B Rosenman, Sonya E Shooshan, Laritza Rodriguez, Sameer Antani, George R Thoma, Clement J McDonald
 
