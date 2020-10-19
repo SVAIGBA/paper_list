@@ -13,28 +13,6 @@
 
 ## 2020
 
->#### SIGIR 2020: [Large Scale Abstractive Multi-Review Summarization (LSARS) via Aspect Alignment](./paper/AAAI-LiH.902.pdf)  
->> Author: Haoran Li, Peng Yuan, Song Xu, Youzheng Wu, Xiaodong He, Bowen Zhou
-
-
->#### SIGIR 2020: [Evaluation of Cross Domain Text Summarization](./paper/SIGIR2020_Submission_Liam.pdf)  
->> Author: Liam Scanlon, Shiwei Zhang, Xiuzhen Zhang, Mark Sanderson
->> Dataset: CNN/DailyMail
->> Score: 
->>
->> | Model                           |  R-1  |  R-2  |  R-L  |
->> | :------------------------------ | :---: | :---: | :---: |
->> | Pointer Gernerator              | 39.53 | 17.28 | 36.38 |
->> | Inconsistency Loss(IL)          | 40.68 | 17.97 | 37.13 |
->> | rnn-ext + abs + RL + rerank(RL) | 40.88 | 17.80 | 38.54 |
-
-
->#### SIGIR 2020: [Multi-Modal Summary Generation using Multi-Objective Optimization](./paper/2005.09252.pdf)  
->> Author: Anubhav Jangra, Sriparna Saha, Mohammad Hasanuzzaman, Adam Jatowt
->> Dataset: Private Dataset
->> Score:
-
-
 >#### AAAI 2020: [Aspect-Aware Multimodal Summarization for Chinese E-Commerce Products](./paper/AAAI-LiH.902.pdf)  
 >> Author: Haoran Li, Peng Yuan, Song Xu, Youzheng Wu, Xiaodong He, Bowen Zhou
 >>
@@ -164,6 +142,7 @@
 
 >#### AAAI 2020: [Controlling the Amount of Verbatim Copying in Abstractive Summarization](./paper/1911.10390.pdf)  
 >> Author: Kaiqiang Song, Bingqing Wang,Zhe Feng, Liu Ren, Fei Liu
+>>
 >> Dataset: Gigaword dataset, Newsroom dataset
 >> Score:
 >> Summarization results on the Gigaword test set
@@ -173,13 +152,19 @@
 >> | Beam + BPNorm (c=0.55) | 39.19 | 20.38 | 36.69 | 61.46  |
 >> | Beam + SBWR(r=0.25)    | 39.08 | 20.47 | 36.68 | 61.51  |
 >> 
+>> ROUGE F1 and BERTScore F1 evaluation on the NewSroom test set
+>>
+>> | Model    | RG-1  | RG-2  | RG-L  | Bert-S |
+>> | -------- | ----- | ----- | ----- | ------ |
+>> | pure-ext | 43.21 | 21.81 | 40.05 | 63.68 |
+>> | best-abs | 45.93 | 24.14 | 42.51 | 66.20 |
 >> ROUGE F1, WMD unigram and BERTScore F1 evaluation on the NewSroom test set
 >> | Model    | RG-1  | RG-2  | RG-L  | Bert-S |
 >> | -------- | ----- | ----- | ----- | ------ |
 >> | pure-ext | 43.21 | 21.81 | 40.05 | 63.68  |
 >> | best-abs | 45.93 | 24.14 | 42.51 | 66.20  |
 >>
->> ROUGE F1, WMD unigram and BERTScore F1 evaluation on the Gigaword test set
+>> ROUGE F1 and BERTScore F1 evaluation on the Gigaword test set
 >>
 >> | Model    | RG-1  | RG-2  | RG-L  | Bert-S |
 >> | -------- | ----- | ----- | ----- | ------ |
@@ -227,9 +212,6 @@
 
 >#### AAAI 2020: [Convolutional Hierarchical Attention Network for Query-Focused Video Summarization](./paper/2002.03740.pdf)  
 >> Author: Shuwen Xiao, Zhou Zhao, Zijian Zhang, Xiaohui Yan, Min Yang
-
->#### AAAI 2020: [Narrative Planning Model Acquisition from Text Summaries and Descriptions](./paper/AAAI-HaytonT.6762.pdf)  
->> Author: Thomas Hayton, Julie Porteous, Joao F. Ferreira, Alan Lindsay
 
 >#### ACL 2020: [Asking and Answering Questions to Evaluate the Factual Consistency of Summaries](./paper/2004.04228.pdf)  
 >> Author: Paulus, Romain, Caiming Xiong, and Richard Socher 
@@ -406,50 +388,143 @@
 >> | FastRL(E+A)     | 35.1 | 40.8 | 29.9 | 38.8 |
 >> | UnifiedSum(E+A) | 34.2 | 42.4 | 29.2 | 40.1 |
 
->#### ACL 2020: [FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization](./paper/2005.03754.pdf)  
->> Esin Durmus, He He and Mona Diab
-
->#### ACL 2020: [From Arguments to Key Points: Towards Automatic Argument Summarization](./paper/2005.01619.pdf)  
->> Roy Bar-Haim, Lilach Eden, Roni Friedman, Yoav Kantor, Dan Lahav and Noam Slonim
-
 >#### ACL 2020: [Heterogeneous Graph Neural Networks for Extractive Document Summarization](./paper/2004.12393.pdf)  
->> Danqing Wang, Pengfei Liu, Yining Zheng, Xipeng Qiu and Xuanjing Huang
+>> Author: Danqing Wang, Pengfei Liu, Yining Zheng, Xipeng Qiu and Xuanjing Huang
+>> Datasets: CNNDM NYT50 Milti-News
+>> Scores: 
+>>
+>> Performance comparison of the models on CNNDM dataset.
+>>
+>> | Model            | R-1   | R-2   | R-L   |
+>> | ---------------- | ----- | ----- | ----- |
+>> | Ext-BiLSTM       | 41.59 | 19.03 | 38.04 |
+>> | Ext-Transformer  | 41.33 | 18.83 | 37.65 |
+>> | HSG              | 42.31 | 19.51 | 38.74 |
+>> | HSG+Tri-Blocking | 42.95 | 19.76 | 39.23 |
+>>
+>> Performance comparison of the models on NYT50 dataset.
+>>
+>> | Model            | R-1   | R-2   | R-L   |
+>> | ---------------- | ----- | ----- | ----- |
+>> | Ext-BiLSTM       | 46.32 | 25.84 | 42.16 |
+>> | Ext-Transformer  | 45.07 | 24.72 | 40.85 |
+>> | HSG              | 46.89 | 26.26 | 42.58 |
+>> | HSG+Tri-Blocking | 46.57 | 25.94 | 42.25 |
+>>
+>> Performance comparison of the models on Multi-News dataset.
+>>
+>> | Model             | R-1   | R-2   | R-L   |
+>> | ----------------- | ----- | ----- | ----- |
+>> | HSG               | 45.66 | 16.22 | 41.80 |
+>> | HSG+Tri-Blocking  | 44.92 | 15.59 | 40.89 |
+>> | HDSG              | 46.05 | 16.35 | 42.08 |
+>> | HDSG+Tri-Blocking | 45.55 | 15.78 | 41.29 |
 
 >#### ACL 2020: [Jointly Learning to Align and Summarize for Neural Cross-Lingual Summarization](./paper/2020.acl-main.554.pdf)  
->> Yue Cao, Hui Liu and Xiaojun Wan
+>> Author: Yue Cao, Hui Liu and Xiaojun Wan
+>> Datasets: Gigaword DUC2004 LCSTS CNNDM
+>> Scores:
+>> Notice: *g* means gigaword dataset, *d* means DUC2004 and so on.
+>>
+>> | model | g_R1  | g_R2  | g_RL  | d_R1  | d_R2 | d_RL  | l_R1  | l_R2  | l_RL  | c_R1  | c_R2  | c_Rl  |
+>> | ----- | ----- | ----- | ----- | ----- | ---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+>> | ours  | 32.04 | 13.60 | 27.91 | 27.25 | 8.71 | 23.36 | 40.97 | 23.20 | 36.96 | 39.12 | 16.76 | 33.86 |
 
 >#### ACL 2020: [Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward](./paper/2005.01159.pdf)  
->> Luyang Huang, Lingfei Wu and Lu Wang
+>> Author: Luyang Huang, Lingfei Wu and Lu Wang
 
 >#### ACL 2020: [Leveraging Graph to Improve Abstractive Multi-Document Summarization](./paper/2005.10043.pdf)  
->> Wei Li, Xinyan Xiao, Jiachen Liu, Hua Wu, Haifeng Wang and Junping Du
+>> Author: Wei Li, Xinyan Xiao, Jiachen Liu, Hua Wu, Haifeng Wang and Junping Du
+>> Datasets: WikiSum Multi-News
+>> Scores:
+>> Performance of models on WikiSum dataset
+>>
+>> | Model            | R-1   | R-2   | R-L   |
+>> | ---------------- | ----- | ----- | ----- |
+>> | GraphSum         | 42.63 | 27.70 | 36.97 |
+>> | GraphSum+RoBERTa | 42.99 | 27.83 | 37.36 |
+>>
+>> Performance of models on Multi-News datasets
+>>
+>> | Models                   | R-1   | R-2   | R-L   |
+>> | ------------------------ | ----- | ----- | ----- |
+>> | GraphSum                 | 45.02 | 16.69 | 22.50 |
+>> | G.S.(Similarity)+RoBERTa | 45.93 | 17.33 | 23.33 |
+>> | G.S.(Topic)+RoBERTa      | 46.07 | 17.42 | 23.21 |
+>> | G.S.(Discourse)+RoBERTa  | 45.87 | 17.56 | 23.39 |
 
 >#### ACL 2020: [MATINF: A Jointly Labeled Large-Scale Dataset for Classification, Question Answering and Summarization](./paper/2004.12302.pdf)  
->> Canwen Xu, Jiaxin Pei, Hongtao Wu, Yiyu Liu and Chenliang Li
+>> Author: Canwen Xu, Jiaxin Pei, Hongtao Wu, Yiyu Liu and Chenliang Li
+>> Contribution: released a new dataset
 
 >#### ACL 2020: [Multi-Granularity Interaction Network for Extractive and Abstractive Multi-Document Summarization](./paper/2020.acl-main.556.pdf)  
->> Hanqi Jin, Tianming Wang and Xiaojun Wan
+>> Author: Hanqi Jin, Tianming Wang and Xiaojun Wan
+>> Dataset: Multi-News dataset
+>> Scores:
+>>
+>> | Models     | R-1   | R-2   | R-L   |
+>> | ---------- | ----- | ----- | ----- |
+>> | MGSum-ext  | 44.75 | 15.75 | 19.30 |
+>> | MGSum-abs  | 46.00 | 16.81 | 20.09 |
+>> | oracle ext | 49.02 | 29.78 | 29.19 |
 
 >#### ACL 2020: [On Faithfulness and Factuality in Abstractive Summarization](./paper/2005.01619.pdf)  
->> Joshua Maynez, Shashi Narayan, Bernd Bohnet and Ryan McDonald
+>> Author: Joshua Maynez, Shashi Narayan, Bernd Bohnet and Ryan McDonald
+>> Dataset: XSum
+>> Scores:
+>>
+>> | Models  | R-1   | R-2   | R-L   | BERTScoreBERTS2S |
+>> | ------- | ----- | ----- | ----- | ---------------- |
+>> | BERTS2S | 38.42 | 16.96 | 31.27 | 78.85            |
+
 
 >#### ACL 2020: [Screenplay Summarization Using Latent Narrative Structure](./paper/2004.12727.pdf)  
 >> Pinelopi Papalampidi, Frank Keller, Lea Frermann and Mirella Lapata
 
 >#### ACL 2020: [Unsupervised Opinion Summarization as Copycat-Review Generation](./paper/1911.02247.pdf)  
->> Arthur Bražinskas, Mirella Lapata and Ivan Titov
+>> Author: Arthur Bražinskas, Mirella Lapata and Ivan Titov
+>> Dataset: Yelp Amazon
+
 
 >#### ACL 2020: [Unsupervised Opinion Summarization with Noising and Denoising](./paper/2004.10150.pdf)  
->> Reinald Kim Amplayo and Mirella Lapata
+>> Author: Reinald Kim Amplayo and Mirella Lapata
+>> Dataset: CNNDM 
+>> Scores: 
+>>
+>> | Model     | R-1   | R-2   | R-L   |
+>> | --------- | ----- | ----- | ----- |
+>> | EDUSum+RL | 40.89 | 18.30 | 37.79 |
+>> | EDUSum    | 41.40 | 18.03 | 38.79 |
 
 >#### ACL 2020: [A Large-Scale Multi-Document Summarization Dataset from the Wikipedia Current Events Portal](./paper/2020.acl-main.120.pdf)  
->> Demian Gholipour Ghalandari, Chris Hokamp, Nghia The Pham, John Glover and Georgiana Ifrim
+>> Author: Demian Gholipour Ghalandari, Chris Hokamp, Nghia The Pham, John Glover and Georgiana Ifrim
+>> Contribution: released a new dataset
 
 >#### ACL 2020: [Attend to Medical Ontologies: Content Selection for Clinical Abstractive Summarization](./paper/2005.00163.pdf)  
->> Sajad Sotudeh Gharebagh, Nazli Goharian and Ross Filice
+>> Author: Sajad Sotudeh Gharebagh, Nazli Goharian and Ross Filice
+>> Dataset: MIMIC-CXR Open-I
+>> Scores:
+>> performance of the model on MIMIC-CXR dataset
+>>
+>> | Model | R-1   | R-2   | R-L   |
+>> | ----- | ----- | ----- | ----- |
+>> | ours  | 53.57 | 40.78 | 51.81 |
+>>
+>> performance of the model on Open-I dataset
+>>
+>> | Model | R-1   | R-2   | R-L   |
+>> | ----- | ----- | ----- | ----- |
+>> | ours  | 40.88 | 24.44 | 40.37 |
 
 >#### ACL 2020: [Composing Elementary Discourse Units in Abstractive Summarization](./paper/2020.acl-main.551.pdf)  
->> Zhenwen Li, Wenhao Wu and Sujian Li
+>> Author: Zhenwen Li, Wenhao Wu and Sujian Li
+>> Dataset: Yelp Amazon
+>> Scores:
+>>
+>> | Models                      | R-1   | R-2  | R-L   |
+>> | --------------------------- | ----- | ---- | ----- |
+>> | Copycat (on Yelp dataset)   | 29.47 | 5.26 | 18.09 |
+>> | Copycat (on Amazon dataset) | 31.97 | 5.81 | 20.16 |
 
 >#### ACL 2020: [Exploring Content Selection in Summarization of Novel Chapters](./paper/2005.01840.pdf)  
 >> Faisal Ladhak, Bryan Li, Yaser Al-Onaizan and Kathy McKeown
@@ -458,16 +533,225 @@
 >> Xinnuo Xu, Ondřej Dušek, Jingyi Li, Verena Rieser and Ioannis Konstas
 
 >#### ACL 2020: [OpinionDigest: A Simple Framework for Opinion Summarization](./paper/2005.01901.pdf)  
->> Yoshihiko Suhara, Xiaolan Wang, Stefanos Angelidis and Wang-Chiew Tan
+>> Author: Yoshihiko Suhara, Xiaolan Wang, Stefanos Angelidis and Wang-Chiew Tan
+>> Dataset: YELP
+>> Scores:
+>>
+>> | Model         | R1    | R2   | RL    |
+>> | ------------- | ----- | ---- | ----- |
+>> | OPINIONDIGEST | 29.30 | 5.77 | 18.56 |
+>>
+>> 
 
 >#### ACL 2020: [Self-Attention Guided Copy Mechanism for Abstractive Summarization](./paper/2020.acl-main.125.pdf)  
->> Song Xu, Haoran Li, Peng Yuan, Youzheng Wu, Xiaodong He and Bowen Zhou
+>> Author: Song Xu, Haoran Li, Peng Yuan, Youzheng Wu, Xiaodong He and Bowen Zhou
+>> Dataset: CNNDM Gigaword
+>> Scores:
+>> Performance tested on the CNNDM
+>>
+>> | Model              | R1    | R2    | RL    |
+>> | ------------------ | ----- | ----- | ----- |
+>> | SAGCopy Outdegree  | 42.53 | 19.92 | 39.44 |
+>> | SAGCopy Indegree-1 | 42.30 | 19.75 | 39.23 |
+>> | SAGCopy Indegree-2 | 42.56 | 19.89 | 39.40 |
+>> | SAGCopy Indegree-3 | 42.34 | 19.72 | 39.29 |
+>>
+>> Performance tested on the Gigaword
+>>
+>> | Model              | R1    | R2    | RL    |
+>> | ------------------ | ----- | ----- | ----- |
+>> | SAGCopy Outdegree  | 38.86 | 19.91 | 36.06 |
+>> | SAGCopy Indegree-1 | 38.84 | 20.39 | 36.27 |
+>> | SAGCopy Indegree-2 | 38.70 | 20.16 | 36.09 |
+>> | SAGCopy Indegree-3 | 38.69 | 19.83 | 35.98 |
+>>
+>> 
 
 >#### ACL 2020: [SUPERT: Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization](./paper/2005.03724.pdf)  
->> Yang Gao, Wei Zhao and Steffen Eger
+>> Author: Yang Gao, Wei Zhao and Steffen Eger
+>> Dataset: TAC08 TAC09
+>> Scores:
+>>
+>> | Model  | TAC08_R1 | TAC08_R2 | TAC08_RL | TAC09_R1 | TAC09_R2 | TAC09_RL |
+>> | ------ | -------- | -------- | -------- | -------- | -------- | -------- |
+>> | NTD_SP | 37.6     | 10.2     | 29.6     | 38.0     | 10.3     | 19.4     |
+>>
+>> 
 
 >#### ACL 2020: [Understanding Points of Correspondence between Sentences for Abstractive Summarization](./paper/2006.05621.pdf)  
 >> Logan Lebanoff, John Muchovej, Franck Dernoncourt, Doo Soon Kim, Lidan Wang, Walter Chang and Fei Liu
+
+## 2019
+>#### ACL 2019: [Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization](./paper/P19-1098.pdf)  
+>> Author: Sangwoo Cho,  Logan Lebanoff ,  Hassan Foroosh,  Fei Liu
+
+>#### ACL 2019: [Global Optimization under Length Constraint for Neural Text Summarization](./paper/P19-1099.pdf)  
+>> Takuya Makino | Tomoya Iwakura | Hiroya Takamura | Manabu Okumura
+
+>#### ACL 2019: [Searching for Effective Neural Extractive Summarization: What Works and What’s Next](./paper/P19-1100.pdf)  
+>> Author: Ming Zhong | Pengfei Liu | Danqing Wang | Xipeng Qiu | Xuanjing Huang
+
+>#### ACL 2019: [Multi-News: A Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model](./paper/P19-1102.pdf)  
+>> Alexander Fabbri | Irene Li | Tianwei She | Suyi Li | Dragomir Radev
+
+>#### ACL 2019: [TalkSumm: A Dataset and Scalable Annotation Method for Scientific Paper Summarization Based on Conference Talks](./paper/P19-1204.pdf)  
+>> Guy Lev | Michal Shmueli-Scheuer | Jonathan Herzig | Achiya Jerbi | David Konopnicki
+
+>#### ACL 2019: [Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization](./paper/P19-1205.pdf)  
+>> Yongjian You | Weijia Jia | Tianyi Liu | Wenmian Yang
+
+>#### ACL 2019: [Unsupervised Neural Single-Document Summarization of Reviews via Learning Latent Discourse Structure and its Ranking](./paper/P19-1206.pdf)  
+>> Author: Masaru Isonuma | Junichiro Mori | Ichiro Sakata
+
+>#### ACL 2019: [BiSET: Bi-directional Selective Encoding with Template for Abstractive Summarization](./paper/P19-1207.pdf.pdf)  
+>> Author: Kai Wang | Xiaojun Quan | Rui Wang
+
+>#### ACL 2019: [Scoring Sentence Singletons and Pairs for Abstractive Summarization](./paper/P19-1209.pdf)  
+>> Author: Logan Lebanoff | Kaiqiang Song | Franck Dernoncourt | Doo Soon Kim | Seokhwan Kim | Walter Chang | Fei Liu
+
+>#### ACL 2019: [Keep Meeting Summaries on Topic: Abstractive Multi-Modal Meeting Summarization](./paper/P19-1210.pdf)  
+>> Author: Manling Li | Lingyu Zhang | Heng Ji | Richard J. Radke
+
+>#### ACL 2019: [BIGPATENT: A Large-Scale Dataset for Abstractive and Coherent Summarization](./paper/P19-1212.pdf)  
+>> Author: Eva Sharma | Chen Li | Lu Wang
+
+>#### ACL 2019: [Self-Supervised Learning for Contextualized Extractive Summarization](./paper/P19-1214.pdf)  
+>> Author: Hong Wang | Xin Wang | Wenhan Xiong | Mo Yu | Xiaoxiao Guo | Shiyu Chang | William Yang Wang
+
+>#### ACL 2019: [On the Summarization of Consumer Health Questions](./paper/P19-1215.pdf)  
+>> Author: Asma Ben Abacha | Dina Demner-Fushman
+
+>#### ACL 2019: [Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention](./paper/P19-1305.pdf)  
+>> Author: Xiangyu Duan | Mingming Yin | Min Zhang | Boxing Chen | Weihua Luo
+
+>#### ACL 2019: [HighRES: Highlight-based Reference-less Evaluation of Summarization](./paper/P19-1330.pdf)  
+>> Author: Hardy Hardy | Shashi Narayan | Andreas Vlachos
+
+>#### ACL 2019: [HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization](./paper/P19-1499.pdf)  
+>> Author: Xingxing Zhang | Furu Wei | Ming Zhou
+
+>#### ACL 2019: [Hierarchical Transformers for Multi-Document Summarization](./paper/P19-1500.pdf)  
+>> Author: Yang Liu | Mirella Lapata
+
+>#### ACL 2019: [Abstractive Text Summarization Based on Deep Learning and Semantic Content Generalization](./paper/P19-1501.pdf)  
+>> Author: Panagiotis Kouris | Georgios Alexandridis | Andreas Stafylopatis
+
+>#### ACL 2019: [Studying Summarization Evaluation Metrics in the Appropriate Scoring Range](./paper/P19-1502.pdf)  
+>> Author: Maxime Peyrard
+
+>#### ACL 2019: [Simple Unsupervised Summarization by Contextual Matching](./paper/P19-1503.pdf)  
+>> Author: Jiawei Zhou | Alexander Rush
+
+>#### ACL 2019: [Sentence Centrality Revisited for Unsupervised Summarization](./paper/P19-1628.pdf)  
+>> Author: Hao Zheng | Mirella Lapata
+
+>#### ACL 2019: [Inducing Document Structure for Aspect-based Summarization](./paper/P19-1630.pdf)  
+>> Author: Lea Frermann | Alexandre Klementiev
+
+>#### ACL 2019: [Multimodal Abstractive Summarization for How2 Videos](./paper/P19-1659.pdf)  
+>> Author: Shruti Palaskar | Jindřich Libovický | Spandana Gella | Florian Metze
+
+>#### AAAI 2019: [DeepChannel: Salience Estimation by Contrastive Learning for Extractive DocumentSummarization](./paper/4679-Article-Text-7718-1-10-20190707.pdf) 
+>> Author: Jiaxin Shi; Chen Liang ; Lei Hou ; Juanzi Li;Hanwang Zhang;Zhiyuan Liu
+
+>#### AAAI 2019: [ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific PaperSummarization with Citation Networks](./paper/4727-Article-Text-7766-2-10-20190721.pdf)  
+>> Author: Michihiro Yasunaga ; Jungo Kasai;Rui Zhang ;Alexander R Fabbri ;Irene Li ; Dan Friedman Dragomir Radev 
+
+>#### AAAI 2019: [Exploring Human Reading Cognition for Abstractive Text Summarization](./paper/4724-Article-Text-7763-1-10-20190707.pdf)  
+>> Author: Min Yang ; Qiang Qu (SIAT); Zhou Zhao ;Xiaojun Chen ; Ying Shen; Wenting Tu 
+
+>#### AAAI 2019: [Generating Character Descriptions for Automatic Summarization of Fiction](./paper/4738-Article-Text-7777-1-10-20190707.pdf)  
+>> Author: Weiwei Zhang; Jackie Chi Kit Cheung; Joel Oren 
+
+>#### AAAI 2019: [Towards Personalized Review Summarization via User-aware Sequence Network](./paper/4640-Article-Text-7679-1-10-20190707.pdf)  
+>> Author: Junjie Li ; Haoran Li ; Chengqing Zong 
+
+>#### EMNLP 2019: [An Entity-Driven Framework for Abstractive Summarization](./paper/EMNLP2019_sharma_huang_hu_wang.pdf)  
+>> Author: Eva Sharma, Luyang Huang, Zhe Hu and Lu Wang
+
+>#### EMNLP 2019: [Answers Unite! Unsupervised Metrics for Reinforced Summarization Models](./paper/D19-1320.pdf)  
+>> Author: Thomas Scialom, Sylvain Lamprier, Benjamin Piwowarski and Jacopo Staiano
+
+>#### EMNLP 2019: [Attribute-aware Sequence Network for Review Summarization](./paper/D19-1297.pdf)  
+>> Author: Wenbo Wang, Yang Gao, Heyan Huang and Yuxiang Zhou
+
+>#### EMNLP 2019: [Concept Pointer Network for Abstractive Summarization](./paper/D19-1304.pdf)  
+>> Author: Eva Sharma, Luyang Huang, Zhe Hu and Lu Wang
+
+>#### EMNLP 2019: [Contrastive Attention Mechanism for Abstractive Sentence Summarization](./paper/D19-1301.pdf)  
+>> Author: Xiangyu Duan, Hongfei Yu, Mingming Yin, Min Zhang, Weihua Luo and Yue Zhang
+
+>#### EMNLP 2019: [Extractive Summarization of Long Documents by Combining Global and Local Context](./paper/D19-1298.pdf)  
+>> Author: Wen Xiao and Giuseppe Carenini
+
+>#### EMNLP 2019: [How to Write Summaries with Patterns? Learning towards Abstractive Summarization through Prototype Editing](./paper/1909.08837.pdf)  
+>> Author: Shen Gao, Xiuying Chen, Piji Li, Zhangming Chan, Dongyan Zhao and Rui Yan
+
+>#### EMNLP 2019: [Improving Latent Alignment in Text Summarization by Generalizing the Pointer Generator](./paper/D19-1390.pdf)  
+>> Author: Xiaoyu Shen, Yang Zhao, Hui Su and Dietrich Klakow
+
+>#### EMNLP 2019: [NCLS: Neural Cross-Lingual Summarization](./paper/D19-1302.pdf)
+>> Author: Junnan Zhu, Qian Wang, Yining Wang, Yu Zhou, Jiajun Zhang, Shaonan Wang and Chengqing Zong
+
+>#### EMNLP 2019: [Neural Extractive Text Summarization with Syntactic Compression](./paper/D19-1324.pdf)  
+>> Author: Wojciech Kryscinski, Nitish Shirish Keskar, Bryan McCann, Caiming Xiong and Richard Socher
+
+>#### EMNLP 2019: [Neural Text Summarization: A Critical Evaluation](./paper/D19-1051.pdf)  
+>> Author: Eva Sharma, Luyang Huang, Zhe Hu and Lu Wang
+
+>#### EMNLP 2019: [Reading Like HER: Human Reading Inspired Extractive Summarization](./paper/D19-1300.pdf)  
+>> Author: Ling Luo, Xiang Ao, Yan Song, Feiyang Pan, Min Yang and Qing He
+
+>#### EMNLP 2019: [Subtopic-Driven Multi-Document Summarization](./paper/D08-1080.pdf)  
+>> Author: Xin Zheng, Aixin Sun, Jing Li and Karthik Muthuswamy
+
+>#### EMNLP 2019: [Summary Cloze: A New Task for Content Selection in Topic-Focused Summarization](./paper/D19-1386.pdf)  
+>> Author: Daniel Deutsch and Dan Roth
+
+>#### EMNLP 2019: [Text Summarization with Pretrained Encoders](./paper/D19-1387.pdf)  
+>> Author: Yang Liu and Mirella Lapata
+
+>#### EMNLP 2019: [Unsupervised Sentence Summarization using the Information Bottleneck Principle](./paper/D19-1389.pdf)  
+>> Author: Peter West, Ari Holtzman, Jan Buys and Yejin Choi
+
+>#### EMNLP 2019: [Abstract Text Summarization: A Low Resource Challenge](./paper/D19-1616.pdf)  
+>> Author: Shantipriya Parida and Petr Motlicek
+
+>#### EMNLP 2019: [Attention Optimization for Abstractive Document Summarization](./paper/D19-1117.pdf)  
+>> Author: Min Gui, Junfeng Tian, Rui Wang and Zhenglu Yang
+
+>#### EMNLP 2019: [Countering the effects of lead bias in news summarization via multi-stage training and auxiliary losses](./paper/D19-1620.pdf)  
+>> Author: Matt Grenander, Yue Dong, Jackie Chi Kit Cheung and Annie Louis
+
+>#### EMNLP 2019: [Deep Reinforcement Learning with Distributional Semantic Rewards for Abstractive Summarization](./paper/D19-1623.pdf)  
+>> Author: Siyao Li, Deren Lei, Pengda Qin and William Yang Wang
+
+>#### EMNLP 2019: [The Feasibility of Embedding Based Automatic Evaluation for Single Document Summarization](./paper/D19-1116.pdf)  
+>> Author: Simeng Sun and Ani Nenkova
+
+>#### NACCL 2019: [Keyphrase Generation: A Text Summarization Struggle](./paper/N19-1070.pdf)  
+>> Author: Erion Çano | Ondřej Bojar
+
+>#### NACCL 2019: [Fast Concept Mention Grouping for Concept Map-based Multi-Document Summarization](./paper/N19-1074.pdf)  
+>> Author: Tobias Falke | Iryna Gurevych
+
+>#### NACCL 2019: [Single Document Summarization as Tree Induction](./paper/N19-1173.pdf)  
+>> Author: Yang Liu | Ivan Titov | Mirella Lapata
+
+>#### NACCL 2019: [A Robust Abstractive System for Cross-Lingual Summarization](./paper/N19-1204.pdf)  
+>> Author: Jessica Ouyang | Boya Song | Kathy McKeown
+
+>#### NACCL 2019: [Abstractive Summarization of Reddit Posts with Multi-level Memory Networks](./paper/N19-1260.pdf)  
+>> Author: Byeongchang Kim | Hyunwoo Kim | Gunhee Kim
+
+>#### NACCL 2019: [Guiding Extractive Summarization with Question-Answering Rewards](./paper/N19-1264.pdf)  
+>> Author: Kristjan Arumae | Fei Liu
+
+>#### NACCL 2019: [Question Answering as an Automatic Evaluation Metric for News Article Summarization](./paper/N19-1395.pdf)  
+>> Author: Matan Eyal | Tal Baumel | Michael Elhadad
+
+>#### NACCL 2019: [LeafNATS: An Open-Source Toolkit and Live Demo System for Neural Abstractive Text Summarization](./paper/N19-4012.pdf)  
+>> Author: Tian Shi | Ping Wang | Chandan K. Reddy
 
 
 ## 2018

@@ -1,3 +1,9 @@
+## 2020 
+
+>#### ACL: [Joint Chinese Word Segmentation and Part-of-speech Tagging via Two-way Attentions of Auto-analyzed Knowledge](./paper/2020.acl-main.735.pdf)  
+>> Yuanhe Tian, Yan Song, Xiang Ao, Fei Xia, Xiaojun Quan, Tong Zhang, Yonggang Wang  
+>> CTB5, CTB6, CTB7, CTB9, UD  
+
 ## 2018  
 
 >#### IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP), 26(9): [A Simple and Effective Neural Model for Joint Word Segmentation and POS Tagging](./paper/zhang2018.pdf)  

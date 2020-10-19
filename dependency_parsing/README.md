@@ -1,3 +1,19 @@
+## 2020  
+
+
+>#### TACL: [A Graph-based Model for Joint Chinese Word Segmentation and Dependency Parsing](./paper/tacl_a_00301.pdf)  
+>> Hang Yan, Xipeng Qiu, Xuanjing Huang  
+>> CTB5, CTB7, CTB9  
+
+>#### ACL: [Efficient Second-Order TreeCRF for Neural Dependency Parsing](./paper/2020.acl-main.302.pdf)  
+>> Yu Zhang, Zhenghua Li, Min Zhang  
+>> PTB-SD, CoNLL09, NLPCC19  
+
+>#### ACL: [Neural Reranking for Dependency Parsing: An Evaluation](./paper/2020.acl-main.379.pdf)  
+>> Bich-Ngoc Do, Ines Rehbein  
+>> PTB-SD, SPMRL 2014, UD  
+
+
 ## 2019  
 
 >#### EMNLP-IJCNLP: [Deep Contextualized Word Embeddings in Transition-Based and Graph-Based Dependency Parsing - A Tale of Two Parsers Revisited](./paper/D19-1277.pdf)  
@@ -7,6 +23,15 @@
 >#### ACL: [Graph-based Dependency Parsing with Graph Neural Networks](./paper/P19-1237.pdf)  
 >> Tao Ji, Yuanbin Wu, Man Lan  
 >> PTB-SD, UD  
+
+>#### ACL: [Head-Driven Phrase Structure Grammar Parsing on Penn Treebank](./paper/P19-1230.pdf)  
+>> Junru Zhou, Hai Zhao  
+>> PTB-SD, CTB  
+
+>#### arXiv: [Rethinking Self-Attention: Towards Interpretability in Neural Parsing](./paper/Label_Attention_Layer.pdf)  
+>> Khalil Mrini, Franck Dernoncourt, Trung Bui, Walter Chang, Ndapa Nakashole  
+>> PTB-SD, CTB  
+
 
 ## 2018  
 
@@ -19,6 +44,10 @@
 >> UD  
 
 ## 2017  
+
+>#### ICLR: [DEEP BIAFFINE ATTENTION FOR NEURAL DEPENDENCY PARSING](./paper/dozat2017deep.pdf)  
+>> Timothy Dozat, Christopher D. Manning  
+>> PTB-SD, CoNLL09  
 
 >#### EACL: [Dependency Parsing as Head Selection](./papaer/E17-1063.pdf)  
 >> Xingxing Zhang, Jianpeng Cheng, Mirella Lapata  
