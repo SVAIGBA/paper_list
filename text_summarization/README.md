@@ -13,6 +13,85 @@
 
 ## 2020
 
+>#### EMNLP 2020: [Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward](./paper/2020-Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward.pdf)  
+>> Author: Luyang Huang, Lingfei Wu, Lu Wang1
+>>
+>> Dataset: CNN/Daily Mail,New York Times
+>> Score:  
+>>
+>> | Model |  CNN/DM<br> R-1        R-2        R-L|
+>> | :---: | :---: | :---: | :---: |
+>> |ASGARD-SEG +R<sub>rouge</sub>+R<sub>close</sub>|   43.81   20.22   40.37 |
+
+>> | Model | NYT<br> R-1        R-2        R-L|
+>> | :---: | :---: | :---: | :---: |
+>> |ASGARD-SEG +R<sub>rouge</sub>+R<sub>close</sub>|   51.29   34.97   48.26 |
+
+
+
+>#### EMNLP 2020: [Better Highlighting: Creating Sub-Sentence Summary Highlights](./paper/2020-Better Highlighting Creating Sub-Sentence Summary Highlights.pdf)  
+>> Author: Sangwoo Cho, Kaiqiang Song, Chen Li,Dong Yu, Hassan Foroosh, Fei Liu
+>>
+>> Dataset: DUC-04 
+>> Score:  
+>>
+>> | Model |  R-1        R-2        R-SU4|
+>> | :---: | :---: | :---: | :---: |
+>> | HL-TreeSegs  |   39.18   10.30   14.37 |
+>> | HL-XLNetSegs  |   39.26    10.70   14.47|
+
+>#### EMNLP 2020: [Multi-Fact Correction in Abstractive Text Summarization](./paper/2020-Multi-Fact Correction in Abstractive Text Summarization.pdf)  
+>> Author: Yue Dong, Shuohang Wang, Zhe Gan, Yu Cheng, Jackie Chi Kit Cheung,  Jingjing Liu
+>>
+>> Dataset: CNN/DailyMail
+>> Score:  
+>>
+>> | Model |  QGQA  |  FactCC sent  |  R-1        R-2        R-L|
+>> | :---: | :---: | :---: | :---: |:---: |:---: |
+>> | QA-Span  |   75.94   |   80.97  |   41.75   19.27   38.81 |
+>> | Auto-regressive |   75.19    |   79.89  |   41.68  19.16   38.74 |
+
+>#### EMNLP 2020: [Evaluating the Factual Consistency of Abstractive Text Summarization](./paper/2020-emnlp-Evaluating the Factual Consistency of Abstractive Text Summarization.pdf)  
+>> Author: Wojciech Krys ́cin ́ski, Bryan McCann, Caiming Xiong, Richard Socher
+>>
+>> Dataset: CNN/DailyMail
+>> Score:  
+>>
+>> | Model |  Incorrect  |  $\Delta$  |
+>> | :---: | :---: | :---: | :---: |
+>> | FactCC  | 30.0% |  -20.0 |
+>>
+
+>#### EMNLP 2020: [PALM Pre-training an Autoencoding&Autoregressive Language Modelfor Context-conditioned Generation](./paper/2020-PALM Pre-training an Autoencoding&Autoregressive Language Modelfor Context-conditioned Generation.pdf) 
+>> Author: Bin Bi, Chenliang Li, Chen Wu, Ming Yan,Wei Wang, Songfang Huang, Fei Huang, Luo Si
+>>
+>> Dataset: CNN/DailyMail,Gigaword
+>> Score: 
+>>  | Methods                 | CNN/DailyMail<br>R-1        R-2        R-L | Gigaword<br>R-1        R-2        R-L |
+>> | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+>> | PALM                    |          42.71   19.97     39.71          |        38.75   19.79   35.98        |
+>> | PALM(LARGE)                    |         44.30   21.12     41.41          |        39.45   20.37   36.75        |
+
+>#### EMNLP 2020: [Pre-training for Abstractive Document Summarization by Reinstating Source Text](./paper/2020-Pre-training for Abstractive Document Summarization byReinstating Source Text.pdf)  
+>> Author: Yanyan Zou, Xingxing Zhang, Wei Lu,Furu Wei, Ming Zhou
+>>
+>> Dataset: CNN/DailyMail
+>> Score:  
+>> | Model |  R-1  |  R-2  |  R-L  |
+>> | :---: | :---: | :---: | :---: |
+>> | STEP  | 44.03 | 21.13 | 41.20 |
+>>
+
+>#### AAAI 2020: [Keywords-Guided Abstractive Sentence Summarization](./paper/2020-Keywords-Guided Abstractive Sentence Summarization.pdf)  
+>> Author: Haoran Li, Junnan Zhu, Jiajun Zhang, Chengqing Zong, Xiaodong He
+>>
+>> Dataset: Gigaword
+>> Score:  
+>>
+>> | Model |  R-1        R-2        R-L|
+>> | :---: | :---: | :---: | :---: |
+>> | Co- Selective  Hier+DualPG  |  47.14   25.06  44.39 |
+
 >#### AAAI 2020: [Aspect-Aware Multimodal Summarization for Chinese E-Commerce Products](./paper/AAAI-LiH.902.pdf)  
 >> Author: Haoran Li, Peng Yuan, Song Xu, Youzheng Wu, Xiaodong He, Bowen Zhou
 >>
