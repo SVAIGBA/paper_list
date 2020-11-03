@@ -18,11 +18,9 @@
 >>
 >> Dataset: CNN/Daily Mail,New York Times
 >> Score:  
->>
 >> | Model |  CNN/DM<br> R-1        R-2        R-L|
 >> | :---: | :---: | :---: | :---: |
 >> |ASGARD-SEG +R<sub>rouge</sub>+R<sub>close</sub>|   43.81   20.22   40.37 |
-
 >> | Model | NYT<br> R-1        R-2        R-L|
 >> | :---: | :---: | :---: | :---: |
 >> |ASGARD-SEG +R<sub>rouge</sub>+R<sub>close</sub>|   51.29   34.97   48.26 |
@@ -34,7 +32,6 @@
 >>
 >> Dataset: DUC-04 
 >> Score:  
->>
 >> | Model |  R-1        R-2        R-SU4|
 >> | :---: | :---: | :---: | :---: |
 >> | HL-TreeSegs  |   39.18   10.30   14.37 |
@@ -45,7 +42,6 @@
 >>
 >> Dataset: CNN/DailyMail
 >> Score:  
->>
 >> | Model |  QGQA  |  FactCC sent  |  R-1        R-2        R-L|
 >> | :---: | :---: | :---: | :---: |:---: |:---: |
 >> | QA-Span  |   75.94   |   80.97  |   41.75   19.27   38.81 |
@@ -56,7 +52,6 @@
 >>
 >> Dataset: CNN/DailyMail
 >> Score:  
->>
 >> | Model |  Incorrect  |  $\Delta$  |
 >> | :---: | :---: | :---: | :---: |
 >> | FactCC  | 30.0% |  -20.0 |
