@@ -9,41 +9,80 @@
 | BERT-MRC | **82.11** | 95.75 | - | - |
 | BERT-FLAT | 81.82 | **96.09** | 95.86 | **68.55** |
 
+
+
+## 2021
+
+### ACL-2021
+
+> #### ACL-2021: [Automated Concatenation of Embeddings for Structured Prediction](paper/[ACL%202021]Automated%20Concatenation%20of%20Embeddings%20for%20Structured%20Prediction.pdf)
+>
+> > Xinyu Wang,  Yong Jiang,  Nguyen Bach, Tao Wang
+>
+> > Datasets: Conll2003(93),  Conll2002
+>
+> #### ACL-2021: [Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning](paper/[ACL%202021]Improving%20Named%20Entity%20Recognition%20by%20external%20context%20retrieving%20and%20cooperative%20learning.pdf)
+>
+> > Xinyu Wang,  Yong Jiang,  Nguyen Bach, Tao Wang
+>
+> > Datasets: WNUT-16, WNUT-17, Conll2003(93),  CoNLL++, BC5CDR,  NCBI-disease,  CBS SciTech News,  E-commerce
+
+
+
 ## 2020
+
 ### ACL-2020
 
 > #### ACL-2020: [FLAT: Chinese NER Using Flat-Lattice Transformer](paper/%5BACL%202020%5D%20FLAT.pdf)
->> Xiaonan Li, Hang Yan, Xipeng Qiu, Xuanjing Huang
->>
->> Datasets: OntoNotes, MSRA, Resume, Weibo
-
-### ACL-2020
-
+> > Xiaonan Li, Hang Yan, Xipeng Qiu, Xuanjing Huang
+>
+> > Datasets: OntoNotes, MSRA, Resume, Weib
+>
 > #### ACL-2020: [A Unified MRC Framework for Named Entity Recognition](paper/%5BACL%202020%5D%20BERT-MRC.pdf)
->> Xiaoya Li, Jingrong Feng, Yuxian Meng, Qinghong Han, Fei Wu and Jiwei Li
->>
->> Datasets: OntoNotes, MSRA, Conll2003, ACE2004, ACE2005, GENIA, KHP.
-
-### ACL-2020
-
+> > Xiaoya Li, Jingrong Feng, Yuxian Meng, Qinghong Han, Fei Wu and Jiwei Li
+> >
+> > Datasets: OntoNotes, MSRA, Conll2003, ACE2004, ACE2005, GENIA, KHP.
+>
 > #### ACL-2020: [Simplify the Usage of Lexicon in Chinese NER](paper/%5BACL%202020%5D%20SimplifyLexicon.pdf)
->> Minlong Peng, Ruotian Ma, Qi Zhang, Xuanjing Huang
->>
->> Datasets: OntoNotes, MSRA, Resume, Weibo.
-
-### ACL-2020
-
+> > Minlong Peng, Ruotian Ma, Qi Zhang, Xuanjing Huang
+> >
+> > Datasets: OntoNotes, MSRA, Resume, Weibo.
+>
 > #### ACL-2020: [Named Entity Recognition as Dependency Parsing](paper/%5BACL%202020%5D%20NER%20as%20Dep.pdf)
->> Juntao Yu, Bernd Bohnet, Massimo Poesio
->>
->> Datasets: Conll2003, ACE2004, ACE2005, GENIA, OntoNotes
+> > Juntao Yu, Bernd Bohnet, Massimo Poesio
+> > 
+> > Datasets: Conll2003(93.5), ACE2004, ACE2005, GENIA, OntoNotes
+
+
+
+### EMNLP-2020
+
+> #### ACL-2020: [LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention](paper/[EMNLP%202020]LUKE%20deep%20contextualized%20entity%20representations%20with%20entity%20aware%20self%20attention.pdf)
+>
+> > Ikuya , Yamada, Akari Asai, Hiroyuki Shindo,  Hideaki Takeda, Yuji Matsumoto
+>
+> > Datasets: Open Entity, ReCoRD, Conll2003(94.3), SQuAD, TACRED
+
+
 
 ### AAAI-2020
 
 > #### AAAI-2020: [Hierarchical Contextualized Representation for Named Entity Recognition](paper/%5BAAAI%202020%5D%20Hierarchical%20Contextualized%20Representation%20for%20Named%20Entity%20Recognition.pdf)
->> Ying Luo, Fengshun Xiao, Hai Zhao
->>
->> flat-en-CoNLL-2003 (93.37), flat-en-OntoNotes-5.0 (90.30), flat-es-CoNLL-2002 (87.08)
+> > Ying Luo, Fengshun Xiao, Hai Zhao
+>
+> > flat-en-CoNLL-2003 (93.37), flat-en-OntoNotes-5.0 (90.30), flat-es-CoNLL-2002 (87.08)
+
+
+
+### Computation and Language-2020
+
+> #### ACL-2020: [Exploring Cross-sentence Contexts for Named Entity Recognition with BERT](paper/[CL%202020]Exploring%20Cross-sentence%20Contexts%20for%20named%20entity%20recognition%20with%20bert.pdf)
+>
+> > Jouni Luoma,  Sampo Pyysalo
+>
+> > Datasets: Conll2003(93.74),  Conll2002
+
+
 
 ## 2019
 
