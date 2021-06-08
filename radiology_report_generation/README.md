@@ -1,4 +1,9 @@
 # Radiology Report Generation Paper List
+## 2021
+>#### NAACL 2021: [Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation]
+(https://www.aclweb.org/anthology/2021.naacl-main.416.pdf)
+>
+>> Author: Yasuhide Miura, Yuhao Zhang, Emily Bao Tsai, Curtis P.Langlotz, Dan Jurafsky
 
 ## 2019
 
