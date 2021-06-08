@@ -1,9 +1,25 @@
 # Radiology Report Generation Paper List
+
 ## 2021
->#### NAACL 2021: [Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation]
-(https://www.aclweb.org/anthology/2021.naacl-main.416.pdf)
+
+>#### NAACL 2021: [Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation](https://www.aclweb.org/anthology/2021.naacl-main.416.pdf)
 >
 >> Author: Yasuhide Miura, Yuhao Zhang, Emily Bao Tsai, Curtis P.Langlotz, Dan Jurafsky
+>
+>#### NAACL 2021: [Coherent and Concise Radiology Report Generation via Context Specific Image Representations and Orthogonal Sentence States](https://www.aclweb.org/anthology/2021.naacl-industry.31.pdf)
+>
+>> Author: Litton J Kerisinkel, Ai Ti Aw, Nancy F.Chen
+
+## 2020
+
+>#### EMNLP 2020: [Reinforcement Learning with Imbalanced Dataset for Data-to-Text Medical Report Generation](https://www.aclweb.org/anthology/2020.findings-emnlp.202.pdf)
+>
+>> Author: Toru Nishino, Ryuji Kano, Ryota Ozaki, Norihisa Nakano, Tomoko Ohkuma, Yohei Momoki, Yuki Tagawa, Keigo Nakamura, Tomoki Taniguchi
+>
+>#### EMNLP 2020: [Learning to Generate Clinically Coherent Chest X-Ray Reports](https://www.aclweb.org/anthology/2020.findings-emnlp.110.pdf)
+>
+>> Author: Justin Lovelace, Bobak Mortazavi
+
 
 ## 2019
 
