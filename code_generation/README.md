@@ -2,7 +2,7 @@
 
 ## 2021
 
->#### ACL 2021: [Code Generation from Natural Language with Less Prior and More Monolingual Data](./paper/2021 Code Generation from Natural Language with Less Prior and More Monolingual Data.pdf)
+>#### ACL 2021: [Code Generation from Natural Language with Less Prior and More Monolingual Data](./paper/2021%20Code%20Generation%20from%20Natural%20Language%20with%20Less%20Prior%20and%20More%20Monolingual%20Data.pdf)
 >
 >> Author: Sajad Norouzi, Keyi Tang, Yanshuai Cao.
 >
